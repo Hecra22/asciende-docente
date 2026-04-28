@@ -18,7 +18,7 @@ const especialidades = [
 ]
 
 const pasos = [
-  { num: "1", titulo: "Paga por Yape", desc: "Realiza tu pago de S/ 39.90 por Yape o Plin" },
+  { num: "1", titulo: "Paga por Yape", desc: "Realiza tu pago de S/ 25.00 por Yape o Plin" },
   { num: "2", titulo: "Envía tu comprobante", desc: "Manda la captura de pago a nuestro WhatsApp" },
   { num: "3", titulo: "Activa tu cuenta", desc: "En minutos activamos tu acceso y empiezas a practicar" },
 ]
@@ -48,7 +48,7 @@ export default function Home() {
               rel="noopener"
               className="px-8 py-4 bg-teal-600 text-white font-bold rounded-xl text-lg hover:bg-teal-500 transition-colors border border-teal-500"
             >
-              Comprar acceso — S/ 39.90
+              Comprar acceso — S/ 25.00
             </a>
           </div>
           <p className="mt-4 text-teal-300 text-sm">5 preguntas gratis sin registro</p>
@@ -145,7 +145,7 @@ export default function Home() {
             Acceso completo
           </h2>
           <div className="mt-6 bg-white/10 rounded-2xl p-8 backdrop-blur">
-            <p className="font-[var(--font-display)] text-6xl font-bold">S/ 39.90</p>
+            <p className="font-[var(--font-display)] text-6xl font-bold">S/ 25.00</p>
             <p className="mt-2 text-teal-200">Acceso hasta el día del examen</p>
             <ul className="mt-6 text-left space-y-2 text-teal-100">
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 2,987 preguntas oficiales del Minedu</li>
