@@ -209,13 +209,13 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
           <div className="lg:col-span-1">
             <div className="bg-stone-100 rounded-xl border border-stone-200 overflow-hidden sticky top-24">
               <div className="bg-teal-700 text-white px-4 py-3 flex items-center gap-3">
-                <div className="w-8 h-8 rounded-full bg-teal-500 flex items-center justify-center text-sm font-bold">M</div>
+                <img src="/prof-valdivia.png" alt="Prof. Valdivia" className="w-10 h-10 rounded-full object-cover border-2 border-teal-500" />
                 <div>
-                  <p className="font-semibold text-sm">Mentor</p>
-                  <p className="text-xs text-teal-200">Asistente pedagógico</p>
+                  <p className="font-semibold text-sm">Prof. Valdivia</p>
+                  <p className="text-xs text-teal-200">Asesor pedagógico</p>
                 </div>
               </div>
-              <div ref={chatRef} className="p-4 space-y-3 max-h-96 overflow-y-auto bg-[#e5ddd5] min-h-[120px]">
+              <div ref={chatRef} className="p-4 space-y-3 max-h-[500px] overflow-y-auto bg-[#e5ddd5] min-h-[200px]">
                 {messages.map((msg, i) => {
                   let bubbleClass = 'rounded-lg px-3 py-2 text-sm shadow-sm max-w-[90%] '
                   if (msg.type === 'correct') bubbleClass += 'bg-emerald-100 border border-emerald-300 rounded-tl-none'
