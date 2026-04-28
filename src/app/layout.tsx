@@ -41,7 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </a>
         <footer className="text-center text-xs text-stone-400 px-4 py-8 max-w-2xl mx-auto leading-relaxed">
           Las preguntas y claves de respuesta provienen del Banco de Exámenes oficial del Minedu.
-          Las explicaciones pedagógicas son ayudas de estudio generadas con apoyo de inteligencia artificial
+          Las explicaciones pedagógicas fueron elaboradas por expertos pedagógicos con apoyo de inteligencia artificial
           y no representan posición oficial del Minedu.
           <br />
           <a href="https://evaluaciondocente.perueduca.pe/ascenso25/" target="_blank" rel="noopener" className="underline hover:text-teal-600">
