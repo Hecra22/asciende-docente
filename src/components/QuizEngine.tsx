@@ -133,13 +133,13 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
       </header>
 
       {/* Content */}
-      <main className="flex-1 max-w-4xl mx-auto w-full px-4 py-6">
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <main className="flex-1 max-w-5xl mx-auto w-full px-4 py-6">
+        <div className="grid grid-cols-1 lg:grid-cols-5 gap-6">
           {/* Question */}
-          <div className="lg:col-span-2 space-y-4">
+          <div className="lg:col-span-3 space-y-4">
             {/* Context */}
             {q.ctx && q.ctx.trim() && (
-              <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-sm leading-relaxed whitespace-pre-line">
+              <div className="bg-amber-50 border border-amber-200 rounded-xl p-5 text-sm leading-relaxed text-justify">
                 {q.ctx}
               </div>
             )}
@@ -149,7 +149,7 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
               <p className="text-xs text-stone-400 mb-2">
                 Pregunta {q.n} — {[q.esp, q.niv, q.y].filter(Boolean).join(' · ')}
               </p>
-              <p className="text-lg leading-relaxed font-medium whitespace-pre-line">{q.txt}</p>
+              <p className="text-lg leading-relaxed font-medium text-justify">{q.txt}</p>
             </div>
 
             {/* Alternativas */}
@@ -186,7 +186,7 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
                     onClick={() => handleAnswer(alt.l)}
                   >
                     <span className={circleClass}>{alt.l}</span>
-                    <span className="flex-1 leading-relaxed">{alt.t}</span>
+                    <span className="flex-1 leading-relaxed text-justify">{alt.t}</span>
                   </button>
                 )
               })}
@@ -206,7 +206,7 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
           </div>
 
           {/* Chat panel */}
-          <div className="lg:col-span-1">
+          <div className="lg:col-span-2">
             <div className="bg-stone-100 rounded-xl border border-stone-200 overflow-hidden sticky top-24">
               <div className="bg-teal-700 text-white px-4 py-3 flex items-center gap-3">
                 <img src="/prof-valdivia.png" alt="Prof. Valdivia" className="w-10 h-10 rounded-full object-cover border-2 border-teal-500" />
@@ -217,7 +217,7 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
               </div>
               <div ref={chatRef} className="p-4 space-y-3 max-h-[500px] overflow-y-auto bg-[#e5ddd5] min-h-[200px]">
                 {messages.map((msg, i) => {
-                  let bubbleClass = 'rounded-lg px-3 py-2 text-sm shadow-sm max-w-[90%] '
+                  let bubbleClass = 'rounded-lg px-4 py-3 text-base shadow-sm max-w-full '
                   if (msg.type === 'correct') bubbleClass += 'bg-emerald-100 border border-emerald-300 rounded-tl-none'
                   else if (msg.type === 'incorrect') bubbleClass += 'bg-amber-100 border border-amber-300 rounded-tl-none'
                   else if (msg.type === 'reveal') bubbleClass += 'bg-red-100 border border-red-300 rounded-tl-none'
