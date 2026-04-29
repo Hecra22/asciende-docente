@@ -207,7 +207,7 @@ export default function QuizEngine({ questions, onFinish, isDemo = false }: Prop
 
           {/* Chat panel */}
           <div className="lg:col-span-2">
-            <div className="bg-stone-100 rounded-xl border border-stone-200 overflow-hidden sticky top-24">
+            <div className="bg-stone-100 rounded-xl border border-stone-200 overflow-hidden lg:sticky lg:top-24">
               <div className="bg-teal-700 text-white px-4 py-3 flex items-center gap-3">
                 <img src="/prof-valdivia.png" alt="Prof. Valdivia" className="w-10 h-10 rounded-full object-cover border-2 border-teal-500" />
                 <div>
