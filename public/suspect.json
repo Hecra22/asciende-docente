@@ -1,0 +1,8567 @@
+[
+  {
+    "idx": 3,
+    "id": "a01-ebri-11-2025-f1-8f98-p5",
+    "esp": "Inicial",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (435)"
+    ]
+  },
+  {
+    "idx": 5,
+    "id": "a01-ebri-11-2025-f1-8f98-p6",
+    "esp": "Inicial",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 6,
+    "id": "a01-ebri-11-2025-f1-8f98-p9",
+    "esp": "Inicial",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (478)"
+    ]
+  },
+  {
+    "idx": 9,
+    "id": "a01-ebri-11-2025-f1-8f98-p13",
+    "esp": "Inicial",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (538)"
+    ]
+  },
+  {
+    "idx": 18,
+    "id": "a01-ebri-11-2025-f1-8f98-p22",
+    "esp": "Inicial",
+    "n": 22,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (639)"
+    ]
+  },
+  {
+    "idx": 27,
+    "id": "a01-ebri-11-2025-f1-8f98-p31",
+    "esp": "Inicial",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 45,
+    "id": "a01-ebri-11-2025-f1-8f98-p50",
+    "esp": "Inicial",
+    "n": 50,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 48,
+    "id": "a01-ebri-11-2025-f1-8f98-p54",
+    "esp": "Inicial",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 73,
+    "id": "a02-ebri-12-2025-f2-35ba-p21",
+    "esp": "Inicial",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 76,
+    "id": "a02-ebri-12-2025-f2-35ba-p25",
+    "esp": "Inicial",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 82,
+    "id": "a02-ebri-12-2025-f2-35ba-p33",
+    "esp": "Inicial",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (435)"
+    ]
+  },
+  {
+    "idx": 84,
+    "id": "a02-ebri-12-2025-f2-35ba-p34",
+    "esp": "Inicial",
+    "n": 34,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 85,
+    "id": "a02-ebri-12-2025-f2-35ba-p37",
+    "esp": "Inicial",
+    "n": 37,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (478)"
+    ]
+  },
+  {
+    "idx": 88,
+    "id": "a02-ebri-12-2025-f2-35ba-p41",
+    "esp": "Inicial",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (538)"
+    ]
+  },
+  {
+    "idx": 97,
+    "id": "a02-ebri-12-2025-f2-35ba-p50",
+    "esp": "Inicial",
+    "n": 50,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (639)"
+    ]
+  },
+  {
+    "idx": 106,
+    "id": "a02-ebri-12-2025-f2-35ba-p59",
+    "esp": "Inicial",
+    "n": 59,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 111,
+    "id": "a04-ebrp-11-2025-f1-1047-p5",
+    "esp": "Primaria",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)",
+      "ALT C larga (558)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 112,
+    "id": "a04-ebrp-11-2025-f1-1047-p7",
+    "esp": "Primaria",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 113,
+    "id": "a04-ebrp-11-2025-f1-1047-p6",
+    "esp": "Primaria",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 114,
+    "id": "a04-ebrp-11-2025-f1-1047-p8",
+    "esp": "Primaria",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 118,
+    "id": "a04-ebrp-11-2025-f1-1047-p12",
+    "esp": "Primaria",
+    "n": 12,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1248)"
+    ]
+  },
+  {
+    "idx": 131,
+    "id": "a04-ebrp-11-2025-f1-1047-p27",
+    "esp": "Primaria",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 132,
+    "id": "a04-ebrp-11-2025-f1-1047-p30",
+    "esp": "Primaria",
+    "n": 30,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1668)"
+    ]
+  },
+  {
+    "idx": 140,
+    "id": "a04-ebrp-11-2025-f1-1047-p38",
+    "esp": "Primaria",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1417)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 142,
+    "id": "a04-ebrp-11-2025-f1-1047-p40",
+    "esp": "Primaria",
+    "n": 40,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 144,
+    "id": "a04-ebrp-11-2025-f1-1047-p43",
+    "esp": "Primaria",
+    "n": 43,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1687)"
+    ]
+  },
+  {
+    "idx": 146,
+    "id": "a04-ebrp-11-2025-f1-1047-p45",
+    "esp": "Primaria",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1529)"
+    ]
+  },
+  {
+    "idx": 147,
+    "id": "a04-ebrp-11-2025-f1-1047-p46",
+    "esp": "Primaria",
+    "n": 46,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 151,
+    "id": "a04-ebrp-11-2025-f1-1047-p52",
+    "esp": "Primaria",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 153,
+    "id": "a04-ebrp-11-2025-f1-1047-p54",
+    "esp": "Primaria",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 156,
+    "id": "a04-ebrp-11-2025-f1-1047-p57",
+    "esp": "Primaria",
+    "n": 57,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 168,
+    "id": "a05-ebrp-12-2025-f2-a91d-p9",
+    "esp": "Primaria",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1417)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 170,
+    "id": "a05-ebrp-12-2025-f2-a91d-p11",
+    "esp": "Primaria",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 172,
+    "id": "a05-ebrp-12-2025-f2-a91d-p14",
+    "esp": "Primaria",
+    "n": 14,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1686)"
+    ]
+  },
+  {
+    "idx": 174,
+    "id": "a05-ebrp-12-2025-f2-a91d-p16",
+    "esp": "Primaria",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1529)"
+    ]
+  },
+  {
+    "idx": 175,
+    "id": "a05-ebrp-12-2025-f2-a91d-p17",
+    "esp": "Primaria",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 179,
+    "id": "a05-ebrp-12-2025-f2-a91d-p23",
+    "esp": "Primaria",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 181,
+    "id": "a05-ebrp-12-2025-f2-a91d-p25",
+    "esp": "Primaria",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 184,
+    "id": "a05-ebrp-12-2025-f2-a91d-p28",
+    "esp": "Primaria",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 188,
+    "id": "a05-ebrp-12-2025-f2-a91d-p33",
+    "esp": "Primaria",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)",
+      "ALT C larga (558)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 189,
+    "id": "a05-ebrp-12-2025-f2-a91d-p35",
+    "esp": "Primaria",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 190,
+    "id": "a05-ebrp-12-2025-f2-a91d-p34",
+    "esp": "Primaria",
+    "n": 34,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 191,
+    "id": "a05-ebrp-12-2025-f2-a91d-p36",
+    "esp": "Primaria",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2670)"
+    ]
+  },
+  {
+    "idx": 195,
+    "id": "a05-ebrp-12-2025-f2-a91d-p40",
+    "esp": "Primaria",
+    "n": 40,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1248)"
+    ]
+  },
+  {
+    "idx": 208,
+    "id": "a05-ebrp-12-2025-f2-a91d-p55",
+    "esp": "Primaria",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 209,
+    "id": "a05-ebrp-12-2025-f2-a91d-p58",
+    "esp": "Primaria",
+    "n": 58,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1668)"
+    ]
+  },
+  {
+    "idx": 217,
+    "id": "a07-ebrs-11-2025-f1-95ac-p6",
+    "esp": "Arte y Cultura",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 218,
+    "id": "a07-ebrs-11-2025-f1-95ac-p9",
+    "esp": "Arte y Cultura",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1045)"
+    ]
+  },
+  {
+    "idx": 219,
+    "id": "a07-ebrs-11-2025-f1-95ac-p11",
+    "esp": "Arte y Cultura",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 220,
+    "id": "a07-ebrs-11-2025-f1-95ac-p13",
+    "esp": "Arte y Cultura",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (416)"
+    ]
+  },
+  {
+    "idx": 221,
+    "id": "a07-ebrs-11-2025-f1-95ac-p15",
+    "esp": "Arte y Cultura",
+    "n": 15,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (701)"
+    ]
+  },
+  {
+    "idx": 223,
+    "id": "a07-ebrs-11-2025-f1-95ac-p21",
+    "esp": "Arte y Cultura",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 230,
+    "id": "a07-ebrs-11-2025-f1-95ac-p31",
+    "esp": "Arte y Cultura",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C larga (550)",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 234,
+    "id": "a07-ebrs-11-2025-f1-95ac-p40",
+    "esp": "Arte y Cultura",
+    "n": 40,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (530)"
+    ]
+  },
+  {
+    "idx": 240,
+    "id": "a07-ebrs-11-2025-f1-95ac-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 248,
+    "id": "a07-ebrs-11-2025-f1-95ac-p58",
+    "esp": "Arte y Cultura",
+    "n": 58,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 256,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p8",
+    "esp": "Ciencias Sociales",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1322)"
+    ]
+  },
+  {
+    "idx": 257,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p9",
+    "esp": "Ciencias Sociales",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1263)"
+    ]
+  },
+  {
+    "idx": 258,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p10",
+    "esp": "Ciencias Sociales",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1421)"
+    ]
+  },
+  {
+    "idx": 260,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p12",
+    "esp": "Ciencias Sociales",
+    "n": 12,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (419)"
+    ]
+  },
+  {
+    "idx": 264,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p17",
+    "esp": "Ciencias Sociales",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1446)"
+    ]
+  },
+  {
+    "idx": 267,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p21",
+    "esp": "Ciencias Sociales",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1481)"
+    ]
+  },
+  {
+    "idx": 272,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p27",
+    "esp": "Ciencias Sociales",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 274,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p29",
+    "esp": "Ciencias Sociales",
+    "n": 29,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1365)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 275,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p30",
+    "esp": "Ciencias Sociales",
+    "n": 30,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 5 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 276,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p31",
+    "esp": "Ciencias Sociales",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (434)",
+      "ALT B larga (439)"
+    ]
+  },
+  {
+    "idx": 277,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p32",
+    "esp": "Ciencias Sociales",
+    "n": 32,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 287,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p44",
+    "esp": "Ciencias Sociales",
+    "n": 44,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (458)",
+      "ALT B larga (409)",
+      "ALT C larga (416)"
+    ]
+  },
+  {
+    "idx": 295,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p55",
+    "esp": "Ciencias Sociales",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (405)",
+      "ALT B larga (420)",
+      "ALT C larga (442)"
+    ]
+  },
+  {
+    "idx": 296,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p58",
+    "esp": "Ciencias Sociales",
+    "n": 58,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (1297)"
+    ]
+  },
+  {
+    "idx": 297,
+    "id": "a10-ebrs-11-2025-f1-eb9f-p59",
+    "esp": "Ciencias Sociales",
+    "n": 59,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 302,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p5",
+    "esp": "Ciencia y Tecnología",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2337)"
+    ]
+  },
+  {
+    "idx": 303,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p6",
+    "esp": "Ciencia y Tecnología",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2337)"
+    ]
+  },
+  {
+    "idx": 305,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p10",
+    "esp": "Ciencia y Tecnología",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "CTX largo (999)"
+    ]
+  },
+  {
+    "idx": 306,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p11",
+    "esp": "Ciencia y Tecnología",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (469)"
+    ]
+  },
+  {
+    "idx": 308,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p13",
+    "esp": "Ciencia y Tecnología",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (519)",
+      "ALT B larga (519)",
+      "ALT C larga (602)"
+    ]
+  },
+  {
+    "idx": 315,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p21",
+    "esp": "Ciencia y Tecnología",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 317,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p24",
+    "esp": "Ciencia y Tecnología",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1466)"
+    ]
+  },
+  {
+    "idx": 319,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p27",
+    "esp": "Ciencia y Tecnología",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1235)"
+    ]
+  },
+  {
+    "idx": 320,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p28",
+    "esp": "Ciencia y Tecnología",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1307)"
+    ]
+  },
+  {
+    "idx": 321,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p29",
+    "esp": "Ciencia y Tecnología",
+    "n": 29,
+    "y": 2025,
+    "issues": [
+      "CTX largo (931)"
+    ]
+  },
+  {
+    "idx": 322,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p30",
+    "esp": "Ciencia y Tecnología",
+    "n": 30,
+    "y": 2025,
+    "issues": [
+      "CTX largo (931)"
+    ]
+  },
+  {
+    "idx": 326,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p36",
+    "esp": "Ciencia y Tecnología",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (472)"
+    ]
+  },
+  {
+    "idx": 337,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p49",
+    "esp": "Ciencia y Tecnología",
+    "n": 49,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1345)"
+    ]
+  },
+  {
+    "idx": 338,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p51",
+    "esp": "Ciencia y Tecnología",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1345)",
+      "ALT C larga (901)"
+    ]
+  },
+  {
+    "idx": 339,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p52",
+    "esp": "Ciencia y Tecnología",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1109)"
+    ]
+  },
+  {
+    "idx": 340,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p54",
+    "esp": "Ciencia y Tecnología",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1109)"
+    ]
+  },
+  {
+    "idx": 343,
+    "id": "a13-ebrs-11-2025-f1-e5f4-p57",
+    "esp": "Ciencia y Tecnología",
+    "n": 57,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 349,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p5",
+    "esp": "Comunicación",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (597)"
+    ]
+  },
+  {
+    "idx": 350,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p6",
+    "esp": "Comunicación",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (426)",
+      "ALT B larga (442)",
+      "ALT C larga (451)"
+    ]
+  },
+  {
+    "idx": 351,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p7",
+    "esp": "Comunicación",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1336)"
+    ]
+  },
+  {
+    "idx": 352,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p8",
+    "esp": "Comunicación",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1320)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 354,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p10",
+    "esp": "Comunicación",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1461)"
+    ]
+  },
+  {
+    "idx": 355,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p11",
+    "esp": "Comunicación",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1164)"
+    ]
+  },
+  {
+    "idx": 359,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p15",
+    "esp": "Comunicación",
+    "n": 15,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1737)"
+    ]
+  },
+  {
+    "idx": 360,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p18",
+    "esp": "Comunicación",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 362,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p20",
+    "esp": "Comunicación",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1201)"
+    ]
+  },
+  {
+    "idx": 363,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p23",
+    "esp": "Comunicación",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1240)"
+    ]
+  },
+  {
+    "idx": 364,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p25",
+    "esp": "Comunicación",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (698)",
+      "ALT B larga (612)",
+      "ALT C larga (678)"
+    ]
+  },
+  {
+    "idx": 365,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p26",
+    "esp": "Comunicación",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1490)"
+    ]
+  },
+  {
+    "idx": 369,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p31",
+    "esp": "Comunicación",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (444)"
+    ]
+  },
+  {
+    "idx": 373,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p36",
+    "esp": "Comunicación",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 374,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p38",
+    "esp": "Comunicación",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (483)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 376,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p42",
+    "esp": "Comunicación",
+    "n": 42,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (414)"
+    ]
+  },
+  {
+    "idx": 378,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p45",
+    "esp": "Comunicación",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1322)"
+    ]
+  },
+  {
+    "idx": 383,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p51",
+    "esp": "Comunicación",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 384,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p54",
+    "esp": "Comunicación",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (700)"
+    ]
+  },
+  {
+    "idx": 388,
+    "id": "a16-ebrs-11-2025-f1-d9f3-p60",
+    "esp": "Comunicación",
+    "n": 60,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 394,
+    "id": "a17-ebrs-12-2025-f2-ab13-p7",
+    "esp": "Comunicación",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 395,
+    "id": "a17-ebrs-12-2025-f2-ab13-p9",
+    "esp": "Comunicación",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (483)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 397,
+    "id": "a17-ebrs-12-2025-f2-ab13-p13",
+    "esp": "Comunicación",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (414)"
+    ]
+  },
+  {
+    "idx": 399,
+    "id": "a17-ebrs-12-2025-f2-ab13-p16",
+    "esp": "Comunicación",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1322)"
+    ]
+  },
+  {
+    "idx": 404,
+    "id": "a17-ebrs-12-2025-f2-ab13-p22",
+    "esp": "Comunicación",
+    "n": 22,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 405,
+    "id": "a17-ebrs-12-2025-f2-ab13-p25",
+    "esp": "Comunicación",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (700)"
+    ]
+  },
+  {
+    "idx": 409,
+    "id": "a17-ebrs-12-2025-f2-ab13-p31",
+    "esp": "Comunicación",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 410,
+    "id": "a17-ebrs-12-2025-f2-ab13-p33",
+    "esp": "Comunicación",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (597)"
+    ]
+  },
+  {
+    "idx": 411,
+    "id": "a17-ebrs-12-2025-f2-ab13-p34",
+    "esp": "Comunicación",
+    "n": 34,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (426)",
+      "ALT B larga (442)",
+      "ALT C larga (451)"
+    ]
+  },
+  {
+    "idx": 412,
+    "id": "a17-ebrs-12-2025-f2-ab13-p35",
+    "esp": "Comunicación",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1336)"
+    ]
+  },
+  {
+    "idx": 413,
+    "id": "a17-ebrs-12-2025-f2-ab13-p36",
+    "esp": "Comunicación",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1320)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 415,
+    "id": "a17-ebrs-12-2025-f2-ab13-p38",
+    "esp": "Comunicación",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1461)"
+    ]
+  },
+  {
+    "idx": 416,
+    "id": "a17-ebrs-12-2025-f2-ab13-p39",
+    "esp": "Comunicación",
+    "n": 39,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1164)"
+    ]
+  },
+  {
+    "idx": 420,
+    "id": "a17-ebrs-12-2025-f2-ab13-p43",
+    "esp": "Comunicación",
+    "n": 43,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1737)"
+    ]
+  },
+  {
+    "idx": 421,
+    "id": "a17-ebrs-12-2025-f2-ab13-p46",
+    "esp": "Comunicación",
+    "n": 46,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 423,
+    "id": "a17-ebrs-12-2025-f2-ab13-p48",
+    "esp": "Comunicación",
+    "n": 48,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1201)"
+    ]
+  },
+  {
+    "idx": 424,
+    "id": "a17-ebrs-12-2025-f2-ab13-p51",
+    "esp": "Comunicación",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1240)"
+    ]
+  },
+  {
+    "idx": 425,
+    "id": "a17-ebrs-12-2025-f2-ab13-p53",
+    "esp": "Comunicación",
+    "n": 53,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (698)",
+      "ALT B larga (612)",
+      "ALT C larga (678)"
+    ]
+  },
+  {
+    "idx": 426,
+    "id": "a17-ebrs-12-2025-f2-ab13-p54",
+    "esp": "Comunicación",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1490)"
+    ]
+  },
+  {
+    "idx": 430,
+    "id": "a17-ebrs-12-2025-f2-ab13-p59",
+    "esp": "Comunicación",
+    "n": 59,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (444)"
+    ]
+  },
+  {
+    "idx": 435,
+    "id": "a19-ebrs-11-2025-f1-779a-p4",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2076)",
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 438,
+    "id": "a19-ebrs-11-2025-f1-779a-p7",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 442,
+    "id": "a19-ebrs-11-2025-f1-779a-p13",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (924)",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 446,
+    "id": "a19-ebrs-11-2025-f1-779a-p19",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 19,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 448,
+    "id": "a19-ebrs-11-2025-f1-779a-p21",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 450,
+    "id": "a19-ebrs-11-2025-f1-779a-p23",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 460,
+    "id": "a19-ebrs-11-2025-f1-779a-p35",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "TXT 10 signos ¿"
+    ]
+  },
+  {
+    "idx": 463,
+    "id": "a19-ebrs-11-2025-f1-779a-p39",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 39,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 469,
+    "id": "a19-ebrs-11-2025-f1-779a-p45",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 471,
+    "id": "a19-ebrs-11-2025-f1-779a-p47",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 47,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 476,
+    "id": "a19-ebrs-11-2025-f1-779a-p53",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 53,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (405)"
+    ]
+  },
+  {
+    "idx": 478,
+    "id": "a19-ebrs-11-2025-f1-779a-p55",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 479,
+    "id": "a19-ebrs-11-2025-f1-779a-p56",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 56,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1324)"
+    ]
+  },
+  {
+    "idx": 480,
+    "id": "a19-ebrs-11-2025-f1-779a-p57",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 57,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 487,
+    "id": "a22-ebrs-11-2025-f1-b175-p4",
+    "esp": "Educación Religiosa",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (453)",
+      "ALT B larga (469)",
+      "ALT C larga (474)"
+    ]
+  },
+  {
+    "idx": 489,
+    "id": "a22-ebrs-11-2025-f1-b175-p6",
+    "esp": "Educación Religiosa",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (451)",
+      "ALT B larga (447)",
+      "ALT C larga (469)"
+    ]
+  },
+  {
+    "idx": 490,
+    "id": "a22-ebrs-11-2025-f1-b175-p9",
+    "esp": "Educación Religiosa",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (561)"
+    ]
+  },
+  {
+    "idx": 491,
+    "id": "a22-ebrs-11-2025-f1-b175-p10",
+    "esp": "Educación Religiosa",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2023)",
+      "ALT B larga (421)",
+      "ALT C larga (464)"
+    ]
+  },
+  {
+    "idx": 492,
+    "id": "a22-ebrs-11-2025-f1-b175-p11",
+    "esp": "Educación Religiosa",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (429)"
+    ]
+  },
+  {
+    "idx": 494,
+    "id": "a22-ebrs-11-2025-f1-b175-p13",
+    "esp": "Educación Religiosa",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (402)",
+      "ALT C larga (448)"
+    ]
+  },
+  {
+    "idx": 497,
+    "id": "a22-ebrs-11-2025-f1-b175-p16",
+    "esp": "Educación Religiosa",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1003)"
+    ]
+  },
+  {
+    "idx": 498,
+    "id": "a22-ebrs-11-2025-f1-b175-p17",
+    "esp": "Educación Religiosa",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (542)",
+      "ALT B larga (466)"
+    ]
+  },
+  {
+    "idx": 499,
+    "id": "a22-ebrs-11-2025-f1-b175-p18",
+    "esp": "Educación Religiosa",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (413)"
+    ]
+  },
+  {
+    "idx": 500,
+    "id": "a22-ebrs-11-2025-f1-b175-p19",
+    "esp": "Educación Religiosa",
+    "n": 19,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 502,
+    "id": "a22-ebrs-11-2025-f1-b175-p22",
+    "esp": "Educación Religiosa",
+    "n": 22,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (438)",
+      "ALT B larga (427)",
+      "ALT C larga (411)"
+    ]
+  },
+  {
+    "idx": 503,
+    "id": "a22-ebrs-11-2025-f1-b175-p23",
+    "esp": "Educación Religiosa",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (425)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 505,
+    "id": "a22-ebrs-11-2025-f1-b175-p25",
+    "esp": "Educación Religiosa",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1259)",
+      "ALT B larga (504)",
+      "ALT C larga (497)"
+    ]
+  },
+  {
+    "idx": 506,
+    "id": "a22-ebrs-11-2025-f1-b175-p26",
+    "esp": "Educación Religiosa",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (436)",
+      "ALT B larga (413)"
+    ]
+  },
+  {
+    "idx": 507,
+    "id": "a22-ebrs-11-2025-f1-b175-p27",
+    "esp": "Educación Religiosa",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1662)",
+      "ALT B larga (427)",
+      "ALT C larga (431)"
+    ]
+  },
+  {
+    "idx": 508,
+    "id": "a22-ebrs-11-2025-f1-b175-p28",
+    "esp": "Educación Religiosa",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1662)",
+      "ALT A larga (426)",
+      "ALT B larga (458)",
+      "ALT C larga (498)"
+    ]
+  },
+  {
+    "idx": 511,
+    "id": "a22-ebrs-11-2025-f1-b175-p31",
+    "esp": "Educación Religiosa",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (468)",
+      "ALT B larga (469)"
+    ]
+  },
+  {
+    "idx": 513,
+    "id": "a22-ebrs-11-2025-f1-b175-p33",
+    "esp": "Educación Religiosa",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (449)",
+      "ALT C larga (477)"
+    ]
+  },
+  {
+    "idx": 514,
+    "id": "a22-ebrs-11-2025-f1-b175-p34",
+    "esp": "Educación Religiosa",
+    "n": 34,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (416)",
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 515,
+    "id": "a22-ebrs-11-2025-f1-b175-p35",
+    "esp": "Educación Religiosa",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (404)",
+      "ALT B larga (426)",
+      "ALT C larga (437)"
+    ]
+  },
+  {
+    "idx": 516,
+    "id": "a22-ebrs-11-2025-f1-b175-p38",
+    "esp": "Educación Religiosa",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (405)",
+      "ALT B larga (406)",
+      "ALT C larga (804)"
+    ]
+  },
+  {
+    "idx": 517,
+    "id": "a22-ebrs-11-2025-f1-b175-p39",
+    "esp": "Educación Religiosa",
+    "n": 39,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (437)",
+      "ALT B larga (425)",
+      "ALT C larga (411)"
+    ]
+  },
+  {
+    "idx": 519,
+    "id": "a22-ebrs-11-2025-f1-b175-p41",
+    "esp": "Educación Religiosa",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (1372)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 521,
+    "id": "a22-ebrs-11-2025-f1-b175-p44",
+    "esp": "Educación Religiosa",
+    "n": 44,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (434)",
+      "ALT B larga (421)",
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 523,
+    "id": "a22-ebrs-11-2025-f1-b175-p46",
+    "esp": "Educación Religiosa",
+    "n": 46,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (401)",
+      "ALT C larga (426)"
+    ]
+  },
+  {
+    "idx": 526,
+    "id": "a22-ebrs-11-2025-f1-b175-p50",
+    "esp": "Educación Religiosa",
+    "n": 50,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (456)",
+      "ALT B larga (453)",
+      "ALT C larga (458)"
+    ]
+  },
+  {
+    "idx": 527,
+    "id": "a22-ebrs-11-2025-f1-b175-p52",
+    "esp": "Educación Religiosa",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (421)",
+      "ALT B larga (422)",
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 528,
+    "id": "a22-ebrs-11-2025-f1-b175-p54",
+    "esp": "Educación Religiosa",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (710)"
+    ]
+  },
+  {
+    "idx": 529,
+    "id": "a22-ebrs-11-2025-f1-b175-p55",
+    "esp": "Educación Religiosa",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (423)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 530,
+    "id": "a22-ebrs-11-2025-f1-b175-p56",
+    "esp": "Educación Religiosa",
+    "n": 56,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (440)",
+      "ALT B larga (429)",
+      "ALT C larga (403)"
+    ]
+  },
+  {
+    "idx": 533,
+    "id": "a22-ebrs-11-2025-f1-b175-p59",
+    "esp": "Educación Religiosa",
+    "n": 59,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (475)",
+      "ALT B larga (431)",
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 542,
+    "id": "a25-ebrs-11-2025-f1-e53a-p8",
+    "esp": "",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 550,
+    "id": "a25-ebrs-11-2025-f1-e53a-p17",
+    "esp": "",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (481)"
+    ]
+  },
+  {
+    "idx": 552,
+    "id": "a25-ebrs-11-2025-f1-e53a-p21",
+    "esp": "",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 554,
+    "id": "a25-ebrs-11-2025-f1-e53a-p23",
+    "esp": "",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 556,
+    "id": "a25-ebrs-11-2025-f1-e53a-p26",
+    "esp": "",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (587)"
+    ]
+  },
+  {
+    "idx": 560,
+    "id": "a25-ebrs-11-2025-f1-e53a-p31",
+    "esp": "",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 565,
+    "id": "a25-ebrs-11-2025-f1-e53a-p36",
+    "esp": "",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1229)"
+    ]
+  },
+  {
+    "idx": 577,
+    "id": "a25-ebrs-11-2025-f1-e53a-p51",
+    "esp": "",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 578,
+    "id": "a25-ebrs-11-2025-f1-e53a-p52",
+    "esp": "",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 586,
+    "id": "a25-ebrs-11-2025-f1-e53a-p60",
+    "esp": "",
+    "n": 60,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 590,
+    "id": "a31-ebrs-11-2025-f1-aea3-p4",
+    "esp": "Matemática",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 592,
+    "id": "a31-ebrs-11-2025-f1-aea3-p7",
+    "esp": "Matemática",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 604,
+    "id": "a31-ebrs-11-2025-f1-aea3-p20",
+    "esp": "Matemática",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (508)"
+    ]
+  },
+  {
+    "idx": 605,
+    "id": "a31-ebrs-11-2025-f1-aea3-p21",
+    "esp": "Matemática",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 5 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 607,
+    "id": "a31-ebrs-11-2025-f1-aea3-p24",
+    "esp": "Matemática",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C larga (522)",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 608,
+    "id": "a31-ebrs-11-2025-f1-aea3-p25",
+    "esp": "Matemática",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 609,
+    "id": "a31-ebrs-11-2025-f1-aea3-p27",
+    "esp": "Matemática",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (441)"
+    ]
+  },
+  {
+    "idx": 617,
+    "id": "a31-ebrs-11-2025-f1-aea3-p35",
+    "esp": "Matemática",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 626,
+    "id": "a31-ebrs-11-2025-f1-aea3-p45",
+    "esp": "Matemática",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (624)"
+    ]
+  },
+  {
+    "idx": 646,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p6",
+    "esp": "Matemática",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 655,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p16",
+    "esp": "Matemática",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (624)"
+    ]
+  },
+  {
+    "idx": 670,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p32",
+    "esp": "Matemática",
+    "n": 32,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 672,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p35",
+    "esp": "Matemática",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 684,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p48",
+    "esp": "Matemática",
+    "n": 48,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (508)"
+    ]
+  },
+  {
+    "idx": 685,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p49",
+    "esp": "Matemática",
+    "n": 49,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 5 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 687,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p52",
+    "esp": "Matemática",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C larga (522)",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 688,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p53",
+    "esp": "Matemática",
+    "n": 53,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 689,
+    "id": "a32-ebrs-12-2025-f2-2b4b-p55",
+    "esp": "Matemática",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (441)"
+    ]
+  },
+  {
+    "idx": 710,
+    "id": "a34-ebrp-11-2025-f1-651a-p18",
+    "esp": "Primaria",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (635)"
+    ]
+  },
+  {
+    "idx": 712,
+    "id": "a34-ebrp-11-2025-f1-651a-p21",
+    "esp": "Primaria",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (554)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 725,
+    "id": "a34-ebrp-11-2025-f1-651a-p37",
+    "esp": "Primaria",
+    "n": 37,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (493)"
+    ]
+  },
+  {
+    "idx": 759,
+    "id": "a37-ebrs-11-2025-f1-5936-p18",
+    "esp": "",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (635)"
+    ]
+  },
+  {
+    "idx": 761,
+    "id": "a37-ebrs-11-2025-f1-5936-p21",
+    "esp": "",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (554)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 774,
+    "id": "a37-ebrs-11-2025-f1-5936-p37",
+    "esp": "",
+    "n": 37,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (493)"
+    ]
+  },
+  {
+    "idx": 796,
+    "id": "a40-ebaii-11-2025-f1-d55e-p5",
+    "esp": "Inicial/Intermedio",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2691)",
+      "ALT C larga (558)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 797,
+    "id": "a40-ebaii-11-2025-f1-d55e-p7",
+    "esp": "Inicial/Intermedio",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2691)"
+    ]
+  },
+  {
+    "idx": 798,
+    "id": "a40-ebaii-11-2025-f1-d55e-p6",
+    "esp": "Inicial/Intermedio",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2691)"
+    ]
+  },
+  {
+    "idx": 799,
+    "id": "a40-ebaii-11-2025-f1-d55e-p8",
+    "esp": "Inicial/Intermedio",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2691)"
+    ]
+  },
+  {
+    "idx": 803,
+    "id": "a40-ebaii-11-2025-f1-d55e-p13",
+    "esp": "Inicial/Intermedio",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (1334)"
+    ]
+  },
+  {
+    "idx": 815,
+    "id": "a40-ebaii-11-2025-f1-d55e-p27",
+    "esp": "Inicial/Intermedio",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 816,
+    "id": "a40-ebaii-11-2025-f1-d55e-p30",
+    "esp": "Inicial/Intermedio",
+    "n": 30,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1687)"
+    ]
+  },
+  {
+    "idx": 824,
+    "id": "a40-ebaii-11-2025-f1-d55e-p38",
+    "esp": "Inicial/Intermedio",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1440)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 831,
+    "id": "a40-ebaii-11-2025-f1-d55e-p45",
+    "esp": "Inicial/Intermedio",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1551)"
+    ]
+  },
+  {
+    "idx": 832,
+    "id": "a40-ebaii-11-2025-f1-d55e-p46",
+    "esp": "Inicial/Intermedio",
+    "n": 46,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 836,
+    "id": "a40-ebaii-11-2025-f1-d55e-p52",
+    "esp": "Inicial/Intermedio",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 838,
+    "id": "a40-ebaii-11-2025-f1-d55e-p54",
+    "esp": "Inicial/Intermedio",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 841,
+    "id": "a40-ebaii-11-2025-f1-d55e-p57",
+    "esp": "Inicial/Intermedio",
+    "n": 57,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 850,
+    "id": "a42-ebaa-11-2025-f1-befb-p6",
+    "esp": "Arte y Cultura",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 851,
+    "id": "a42-ebaa-11-2025-f1-befb-p9",
+    "esp": "Arte y Cultura",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1045)"
+    ]
+  },
+  {
+    "idx": 852,
+    "id": "a42-ebaa-11-2025-f1-befb-p11",
+    "esp": "Arte y Cultura",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 853,
+    "id": "a42-ebaa-11-2025-f1-befb-p13",
+    "esp": "Arte y Cultura",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (416)"
+    ]
+  },
+  {
+    "idx": 854,
+    "id": "a42-ebaa-11-2025-f1-befb-p15",
+    "esp": "Arte y Cultura",
+    "n": 15,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (701)"
+    ]
+  },
+  {
+    "idx": 856,
+    "id": "a42-ebaa-11-2025-f1-befb-p21",
+    "esp": "Arte y Cultura",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 863,
+    "id": "a42-ebaa-11-2025-f1-befb-p31",
+    "esp": "Arte y Cultura",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C larga (550)",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 867,
+    "id": "a42-ebaa-11-2025-f1-befb-p40",
+    "esp": "Arte y Cultura",
+    "n": 40,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (530)"
+    ]
+  },
+  {
+    "idx": 873,
+    "id": "a42-ebaa-11-2025-f1-befb-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 881,
+    "id": "a42-ebaa-11-2025-f1-befb-p58",
+    "esp": "Arte y Cultura",
+    "n": 58,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 886,
+    "id": "a44-ebaa-11-2025-f1-9751-p5",
+    "esp": "",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2337)"
+    ]
+  },
+  {
+    "idx": 887,
+    "id": "a44-ebaa-11-2025-f1-9751-p6",
+    "esp": "",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2337)"
+    ]
+  },
+  {
+    "idx": 889,
+    "id": "a44-ebaa-11-2025-f1-9751-p10",
+    "esp": "",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "CTX largo (999)"
+    ]
+  },
+  {
+    "idx": 890,
+    "id": "a44-ebaa-11-2025-f1-9751-p11",
+    "esp": "",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (469)"
+    ]
+  },
+  {
+    "idx": 892,
+    "id": "a44-ebaa-11-2025-f1-9751-p13",
+    "esp": "",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (521)",
+      "ALT B larga (521)",
+      "ALT C larga (602)"
+    ]
+  },
+  {
+    "idx": 899,
+    "id": "a44-ebaa-11-2025-f1-9751-p21",
+    "esp": "",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 901,
+    "id": "a44-ebaa-11-2025-f1-9751-p24",
+    "esp": "",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1466)"
+    ]
+  },
+  {
+    "idx": 903,
+    "id": "a44-ebaa-11-2025-f1-9751-p27",
+    "esp": "",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1235)"
+    ]
+  },
+  {
+    "idx": 904,
+    "id": "a44-ebaa-11-2025-f1-9751-p28",
+    "esp": "",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1307)"
+    ]
+  },
+  {
+    "idx": 905,
+    "id": "a44-ebaa-11-2025-f1-9751-p29",
+    "esp": "",
+    "n": 29,
+    "y": 2025,
+    "issues": [
+      "CTX largo (931)"
+    ]
+  },
+  {
+    "idx": 906,
+    "id": "a44-ebaa-11-2025-f1-9751-p30",
+    "esp": "",
+    "n": 30,
+    "y": 2025,
+    "issues": [
+      "CTX largo (931)"
+    ]
+  },
+  {
+    "idx": 910,
+    "id": "a44-ebaa-11-2025-f1-9751-p36",
+    "esp": "",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (472)"
+    ]
+  },
+  {
+    "idx": 921,
+    "id": "a44-ebaa-11-2025-f1-9751-p49",
+    "esp": "",
+    "n": 49,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1345)"
+    ]
+  },
+  {
+    "idx": 922,
+    "id": "a44-ebaa-11-2025-f1-9751-p51",
+    "esp": "",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1345)",
+      "ALT C larga (901)"
+    ]
+  },
+  {
+    "idx": 923,
+    "id": "a44-ebaa-11-2025-f1-9751-p52",
+    "esp": "",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1109)"
+    ]
+  },
+  {
+    "idx": 924,
+    "id": "a44-ebaa-11-2025-f1-9751-p54",
+    "esp": "",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1109)"
+    ]
+  },
+  {
+    "idx": 927,
+    "id": "a44-ebaa-11-2025-f1-9751-p57",
+    "esp": "",
+    "n": 57,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 933,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p5",
+    "esp": "Comunicación",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (586)"
+    ]
+  },
+  {
+    "idx": 934,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p6",
+    "esp": "Comunicación",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (426)",
+      "ALT B larga (442)",
+      "ALT C larga (451)"
+    ]
+  },
+  {
+    "idx": 935,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p7",
+    "esp": "Comunicación",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1336)"
+    ]
+  },
+  {
+    "idx": 936,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p8",
+    "esp": "Comunicación",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1320)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 938,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p10",
+    "esp": "Comunicación",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1663)"
+    ]
+  },
+  {
+    "idx": 939,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p11",
+    "esp": "Comunicación",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1164)"
+    ]
+  },
+  {
+    "idx": 943,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p15",
+    "esp": "Comunicación",
+    "n": 15,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1696)"
+    ]
+  },
+  {
+    "idx": 944,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p18",
+    "esp": "Comunicación",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 946,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p20",
+    "esp": "Comunicación",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1201)"
+    ]
+  },
+  {
+    "idx": 947,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p23",
+    "esp": "Comunicación",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1240)"
+    ]
+  },
+  {
+    "idx": 948,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p25",
+    "esp": "Comunicación",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (698)",
+      "ALT B larga (963)",
+      "ALT B tiene Alternativa",
+      "ALT C larga (706)"
+    ]
+  },
+  {
+    "idx": 949,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p26",
+    "esp": "Comunicación",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1483)"
+    ]
+  },
+  {
+    "idx": 953,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p31",
+    "esp": "Comunicación",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (444)"
+    ]
+  },
+  {
+    "idx": 957,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p36",
+    "esp": "Comunicación",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 958,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p38",
+    "esp": "Comunicación",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (483)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 960,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p42",
+    "esp": "Comunicación",
+    "n": 42,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (414)"
+    ]
+  },
+  {
+    "idx": 962,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p45",
+    "esp": "Comunicación",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1322)"
+    ]
+  },
+  {
+    "idx": 967,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p51",
+    "esp": "Comunicación",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 968,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p54",
+    "esp": "Comunicación",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (702)"
+    ]
+  },
+  {
+    "idx": 972,
+    "id": "a46-ebaa-11-2025-f1-f0ac-p60",
+    "esp": "Comunicación",
+    "n": 60,
+    "y": 2025,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 976,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p4",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1322)"
+    ]
+  },
+  {
+    "idx": 977,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p5",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 5,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1421)"
+    ]
+  },
+  {
+    "idx": 979,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p7",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (419)"
+    ]
+  },
+  {
+    "idx": 983,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p12",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 12,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1446)"
+    ]
+  },
+  {
+    "idx": 986,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p16",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "CTX largo (1481)"
+    ]
+  },
+  {
+    "idx": 987,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p18",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 988,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p19",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 19,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1365)",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 989,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p20",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 5 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 990,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p21",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (434)",
+      "ALT B larga (439)"
+    ]
+  },
+  {
+    "idx": 997,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p32",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 32,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (1297)"
+    ]
+  },
+  {
+    "idx": 998,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p33",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2076)",
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1003,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p40",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 40,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (924)",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1004,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p41",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1005,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p42",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 42,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1014,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p52",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1018,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p56",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 56,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 1020,
+    "id": "a48-ebaa-11-2025-f1-cdc3-p58",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 58,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1026,
+    "id": "a50-ebaa-11-2025-f1-6f96-p4",
+    "esp": "Educación Religiosa",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (453)",
+      "ALT B larga (469)",
+      "ALT C larga (474)"
+    ]
+  },
+  {
+    "idx": 1028,
+    "id": "a50-ebaa-11-2025-f1-6f96-p6",
+    "esp": "Educación Religiosa",
+    "n": 6,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (451)",
+      "ALT B larga (447)",
+      "ALT C larga (469)"
+    ]
+  },
+  {
+    "idx": 1029,
+    "id": "a50-ebaa-11-2025-f1-6f96-p9",
+    "esp": "Educación Religiosa",
+    "n": 9,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (561)"
+    ]
+  },
+  {
+    "idx": 1030,
+    "id": "a50-ebaa-11-2025-f1-6f96-p10",
+    "esp": "Educación Religiosa",
+    "n": 10,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2023)",
+      "ALT B larga (421)",
+      "ALT C larga (464)"
+    ]
+  },
+  {
+    "idx": 1031,
+    "id": "a50-ebaa-11-2025-f1-6f96-p11",
+    "esp": "Educación Religiosa",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (429)"
+    ]
+  },
+  {
+    "idx": 1033,
+    "id": "a50-ebaa-11-2025-f1-6f96-p13",
+    "esp": "Educación Religiosa",
+    "n": 13,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (402)",
+      "ALT C larga (448)"
+    ]
+  },
+  {
+    "idx": 1036,
+    "id": "a50-ebaa-11-2025-f1-6f96-p16",
+    "esp": "Educación Religiosa",
+    "n": 16,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1003)"
+    ]
+  },
+  {
+    "idx": 1037,
+    "id": "a50-ebaa-11-2025-f1-6f96-p17",
+    "esp": "Educación Religiosa",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (542)",
+      "ALT B larga (466)"
+    ]
+  },
+  {
+    "idx": 1038,
+    "id": "a50-ebaa-11-2025-f1-6f96-p18",
+    "esp": "Educación Religiosa",
+    "n": 18,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (413)"
+    ]
+  },
+  {
+    "idx": 1039,
+    "id": "a50-ebaa-11-2025-f1-6f96-p19",
+    "esp": "Educación Religiosa",
+    "n": 19,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 1041,
+    "id": "a50-ebaa-11-2025-f1-6f96-p22",
+    "esp": "Educación Religiosa",
+    "n": 22,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (438)",
+      "ALT B larga (427)",
+      "ALT C larga (411)"
+    ]
+  },
+  {
+    "idx": 1042,
+    "id": "a50-ebaa-11-2025-f1-6f96-p23",
+    "esp": "Educación Religiosa",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (425)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 1044,
+    "id": "a50-ebaa-11-2025-f1-6f96-p25",
+    "esp": "Educación Religiosa",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1259)",
+      "ALT B larga (504)",
+      "ALT C larga (497)"
+    ]
+  },
+  {
+    "idx": 1045,
+    "id": "a50-ebaa-11-2025-f1-6f96-p26",
+    "esp": "Educación Religiosa",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (436)",
+      "ALT B larga (413)"
+    ]
+  },
+  {
+    "idx": 1046,
+    "id": "a50-ebaa-11-2025-f1-6f96-p27",
+    "esp": "Educación Religiosa",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1662)",
+      "ALT B larga (427)",
+      "ALT C larga (431)"
+    ]
+  },
+  {
+    "idx": 1047,
+    "id": "a50-ebaa-11-2025-f1-6f96-p28",
+    "esp": "Educación Religiosa",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1662)",
+      "ALT A larga (426)",
+      "ALT B larga (458)",
+      "ALT C larga (498)"
+    ]
+  },
+  {
+    "idx": 1050,
+    "id": "a50-ebaa-11-2025-f1-6f96-p31",
+    "esp": "Educación Religiosa",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (468)",
+      "ALT B larga (469)"
+    ]
+  },
+  {
+    "idx": 1052,
+    "id": "a50-ebaa-11-2025-f1-6f96-p33",
+    "esp": "Educación Religiosa",
+    "n": 33,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (449)",
+      "ALT C larga (477)"
+    ]
+  },
+  {
+    "idx": 1053,
+    "id": "a50-ebaa-11-2025-f1-6f96-p34",
+    "esp": "Educación Religiosa",
+    "n": 34,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (416)",
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 1054,
+    "id": "a50-ebaa-11-2025-f1-6f96-p35",
+    "esp": "Educación Religiosa",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (404)",
+      "ALT B larga (426)",
+      "ALT C larga (437)"
+    ]
+  },
+  {
+    "idx": 1055,
+    "id": "a50-ebaa-11-2025-f1-6f96-p38",
+    "esp": "Educación Religiosa",
+    "n": 38,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (405)",
+      "ALT B larga (406)",
+      "ALT C larga (804)"
+    ]
+  },
+  {
+    "idx": 1056,
+    "id": "a50-ebaa-11-2025-f1-6f96-p39",
+    "esp": "Educación Religiosa",
+    "n": 39,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (437)",
+      "ALT B larga (425)",
+      "ALT C larga (411)"
+    ]
+  },
+  {
+    "idx": 1058,
+    "id": "a50-ebaa-11-2025-f1-6f96-p41",
+    "esp": "Educación Religiosa",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (1372)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1060,
+    "id": "a50-ebaa-11-2025-f1-6f96-p44",
+    "esp": "Educación Religiosa",
+    "n": 44,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (434)",
+      "ALT B larga (421)",
+      "ALT C larga (434)"
+    ]
+  },
+  {
+    "idx": 1062,
+    "id": "a50-ebaa-11-2025-f1-6f96-p46",
+    "esp": "Educación Religiosa",
+    "n": 46,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (401)",
+      "ALT C larga (426)"
+    ]
+  },
+  {
+    "idx": 1065,
+    "id": "a50-ebaa-11-2025-f1-6f96-p50",
+    "esp": "Educación Religiosa",
+    "n": 50,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (456)",
+      "ALT B larga (453)",
+      "ALT C larga (458)"
+    ]
+  },
+  {
+    "idx": 1066,
+    "id": "a50-ebaa-11-2025-f1-6f96-p52",
+    "esp": "Educación Religiosa",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (421)",
+      "ALT B larga (422)",
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 1067,
+    "id": "a50-ebaa-11-2025-f1-6f96-p54",
+    "esp": "Educación Religiosa",
+    "n": 54,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (710)"
+    ]
+  },
+  {
+    "idx": 1068,
+    "id": "a50-ebaa-11-2025-f1-6f96-p55",
+    "esp": "Educación Religiosa",
+    "n": 55,
+    "y": 2025,
+    "issues": [
+      "ALT B larga (423)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 1069,
+    "id": "a50-ebaa-11-2025-f1-6f96-p56",
+    "esp": "Educación Religiosa",
+    "n": 56,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (440)",
+      "ALT B larga (429)",
+      "ALT C larga (403)"
+    ]
+  },
+  {
+    "idx": 1072,
+    "id": "a50-ebaa-11-2025-f1-6f96-p59",
+    "esp": "Educación Religiosa",
+    "n": 59,
+    "y": 2025,
+    "issues": [
+      "ALT A larga (475)",
+      "ALT B larga (431)",
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 1081,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p8",
+    "esp": "",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1089,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p17",
+    "esp": "",
+    "n": 17,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (481)"
+    ]
+  },
+  {
+    "idx": 1091,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p21",
+    "esp": "",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1093,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p23",
+    "esp": "",
+    "n": 23,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1095,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p26",
+    "esp": "",
+    "n": 26,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (587)"
+    ]
+  },
+  {
+    "idx": 1099,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p31",
+    "esp": "",
+    "n": 31,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1104,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p36",
+    "esp": "",
+    "n": 36,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1229)"
+    ]
+  },
+  {
+    "idx": 1116,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p51",
+    "esp": "",
+    "n": 51,
+    "y": 2025,
+    "issues": [
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 1117,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p52",
+    "esp": "",
+    "n": 52,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿",
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 1125,
+    "id": "a52-ebaa-11-2025-f1-c8a9-p60",
+    "esp": "",
+    "n": 60,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1129,
+    "id": "a56-ebaa-11-2025-f1-a796-p4",
+    "esp": "Matemática",
+    "n": 4,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1131,
+    "id": "a56-ebaa-11-2025-f1-a796-p7",
+    "esp": "Matemática",
+    "n": 7,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1143,
+    "id": "a56-ebaa-11-2025-f1-a796-p20",
+    "esp": "Matemática",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (507)"
+    ]
+  },
+  {
+    "idx": 1144,
+    "id": "a56-ebaa-11-2025-f1-a796-p21",
+    "esp": "Matemática",
+    "n": 21,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 5 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1146,
+    "id": "a56-ebaa-11-2025-f1-a796-p24",
+    "esp": "Matemática",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C larga (522)",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 1147,
+    "id": "a56-ebaa-11-2025-f1-a796-p25",
+    "esp": "Matemática",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1148,
+    "id": "a56-ebaa-11-2025-f1-a796-p27",
+    "esp": "Matemática",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (441)"
+    ]
+  },
+  {
+    "idx": 1156,
+    "id": "a56-ebaa-11-2025-f1-a796-p35",
+    "esp": "Matemática",
+    "n": 35,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1165,
+    "id": "a56-ebaa-11-2025-f1-a796-p45",
+    "esp": "Matemática",
+    "n": 45,
+    "y": 2025,
+    "issues": [
+      "ALT C larga (627)"
+    ]
+  },
+  {
+    "idx": 1199,
+    "id": "a58-ebe-11-2025-f1-5e6c-p22",
+    "esp": "Educación Básica Especial",
+    "n": 22,
+    "y": 2025,
+    "issues": [
+      "TXT largo (1295)"
+    ]
+  },
+  {
+    "idx": 1241,
+    "id": "a60-ebaa-11-2025-f1-e077-p11",
+    "esp": "Educación Física",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1242,
+    "id": "a60-ebaa-11-2025-f1-e077-p14",
+    "esp": "Educación Física",
+    "n": 14,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1246,
+    "id": "a60-ebaa-11-2025-f1-e077-p24",
+    "esp": "Educación Física",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1247,
+    "id": "a60-ebaa-11-2025-f1-e077-p25",
+    "esp": "Educación Física",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1248,
+    "id": "a60-ebaa-11-2025-f1-e077-p27",
+    "esp": "Educación Física",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1249,
+    "id": "a60-ebaa-11-2025-f1-e077-p28",
+    "esp": "Educación Física",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1260,
+    "id": "a60-ebaa-11-2025-f1-e077-p41",
+    "esp": "Educación Física",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1279,
+    "id": "a62-ebrs-11-2025-f1-f50c-p11",
+    "esp": "Educación Física",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1280,
+    "id": "a62-ebrs-11-2025-f1-f50c-p14",
+    "esp": "Educación Física",
+    "n": 14,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1284,
+    "id": "a62-ebrs-11-2025-f1-f50c-p24",
+    "esp": "Educación Física",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1285,
+    "id": "a62-ebrs-11-2025-f1-f50c-p25",
+    "esp": "Educación Física",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1286,
+    "id": "a62-ebrs-11-2025-f1-f50c-p27",
+    "esp": "Educación Física",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1287,
+    "id": "a62-ebrs-11-2025-f1-f50c-p28",
+    "esp": "Educación Física",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1298,
+    "id": "a62-ebrs-11-2025-f1-f50c-p41",
+    "esp": "Educación Física",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1317,
+    "id": "a64-ebrp-11-2025-f1-6a87-p11",
+    "esp": "Primaria",
+    "n": 11,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1318,
+    "id": "a64-ebrp-11-2025-f1-6a87-p14",
+    "esp": "Primaria",
+    "n": 14,
+    "y": 2025,
+    "issues": [
+      "CTX largo (2293)"
+    ]
+  },
+  {
+    "idx": 1322,
+    "id": "a64-ebrp-11-2025-f1-6a87-p24",
+    "esp": "Primaria",
+    "n": 24,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1323,
+    "id": "a64-ebrp-11-2025-f1-6a87-p25",
+    "esp": "Primaria",
+    "n": 25,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1324,
+    "id": "a64-ebrp-11-2025-f1-6a87-p27",
+    "esp": "Primaria",
+    "n": 27,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1325,
+    "id": "a64-ebrp-11-2025-f1-6a87-p28",
+    "esp": "Primaria",
+    "n": 28,
+    "y": 2025,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1336,
+    "id": "a64-ebrp-11-2025-f1-6a87-p41",
+    "esp": "Primaria",
+    "n": 41,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1351,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p6",
+    "esp": "Primaria",
+    "n": 6,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1830)"
+    ]
+  },
+  {
+    "idx": 1352,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p2",
+    "esp": "Primaria",
+    "n": 2,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2688)",
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1354,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p4",
+    "esp": "Primaria",
+    "n": 4,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2688)"
+    ]
+  },
+  {
+    "idx": 1356,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p8",
+    "esp": "Primaria",
+    "n": 8,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1357,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p10",
+    "esp": "Primaria",
+    "n": 10,
+    "y": 2021,
+    "issues": [
+      "CTX largo (970)"
+    ]
+  },
+  {
+    "idx": 1358,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p13",
+    "esp": "Primaria",
+    "n": 13,
+    "y": 2021,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1362,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p20",
+    "esp": "Primaria",
+    "n": 20,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1265)",
+      "TXT largo (1320)"
+    ]
+  },
+  {
+    "idx": 1363,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p21",
+    "esp": "Primaria",
+    "n": 21,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1265)"
+    ]
+  },
+  {
+    "idx": 1365,
+    "id": "a04-ebrp-11-2021-f1-1fb5-p22",
+    "esp": "Primaria",
+    "n": 22,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1265)"
+    ]
+  },
+  {
+    "idx": 1402,
+    "id": "a05-ebrp-12-2021-f2-1863-p32",
+    "esp": "Primaria",
+    "n": 32,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (935)"
+    ]
+  },
+  {
+    "idx": 1403,
+    "id": "a05-ebrp-12-2021-f2-1863-p35",
+    "esp": "Primaria",
+    "n": 35,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1830)"
+    ]
+  },
+  {
+    "idx": 1405,
+    "id": "a05-ebrp-12-2021-f2-1863-p34",
+    "esp": "Primaria",
+    "n": 34,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2688)"
+    ]
+  },
+  {
+    "idx": 1406,
+    "id": "a05-ebrp-12-2021-f2-1863-p38",
+    "esp": "Primaria",
+    "n": 38,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1408,
+    "id": "a05-ebrp-12-2021-f2-1863-p42",
+    "esp": "Primaria",
+    "n": 42,
+    "y": 2021,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1411,
+    "id": "a05-ebrp-12-2021-f2-1863-p49",
+    "esp": "Primaria",
+    "n": 49,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1320)"
+    ]
+  },
+  {
+    "idx": 1412,
+    "id": "a05-ebrp-12-2021-f2-1863-p50",
+    "esp": "Primaria",
+    "n": 50,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1440)"
+    ]
+  },
+  {
+    "idx": 1414,
+    "id": "a05-ebrp-12-2021-f2-1863-p51",
+    "esp": "Primaria",
+    "n": 51,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1565)"
+    ]
+  },
+  {
+    "idx": 1418,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p3",
+    "esp": "Primaria",
+    "n": 3,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (573)"
+    ]
+  },
+  {
+    "idx": 1422,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p7",
+    "esp": "Primaria",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1263)"
+    ]
+  },
+  {
+    "idx": 1428,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p14",
+    "esp": "Primaria",
+    "n": 14,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (508)"
+    ]
+  },
+  {
+    "idx": 1434,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p21",
+    "esp": "Primaria",
+    "n": 21,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (652)"
+    ]
+  },
+  {
+    "idx": 1437,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p25",
+    "esp": "Primaria",
+    "n": 25,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1266)"
+    ]
+  },
+  {
+    "idx": 1438,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p27",
+    "esp": "Primaria",
+    "n": 27,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (668)"
+    ]
+  },
+  {
+    "idx": 1439,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p28",
+    "esp": "Primaria",
+    "n": 28,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (404)"
+    ]
+  },
+  {
+    "idx": 1440,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p29",
+    "esp": "Primaria",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "CTX largo (946)"
+    ]
+  },
+  {
+    "idx": 1441,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p30",
+    "esp": "Primaria",
+    "n": 30,
+    "y": 2023,
+    "issues": [
+      "CTX largo (946)"
+    ]
+  },
+  {
+    "idx": 1447,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p36",
+    "esp": "Primaria",
+    "n": 36,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1448,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p38",
+    "esp": "Primaria",
+    "n": 38,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (406)"
+    ]
+  },
+  {
+    "idx": 1449,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p39",
+    "esp": "Primaria",
+    "n": 39,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (627)"
+    ]
+  },
+  {
+    "idx": 1450,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p42",
+    "esp": "Primaria",
+    "n": 42,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (743)"
+    ]
+  },
+  {
+    "idx": 1455,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p49",
+    "esp": "Primaria",
+    "n": 49,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (592)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1457,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p51",
+    "esp": "Primaria",
+    "n": 51,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1459,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p54",
+    "esp": "Primaria",
+    "n": 54,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1461,
+    "id": "a04-ebrp-11-2023-f1-bb4a-p56",
+    "esp": "Primaria",
+    "n": 56,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (435)"
+    ]
+  },
+  {
+    "idx": 1471,
+    "id": "a05-ebrp-12-2023-f2-cae5-p7",
+    "esp": "Primaria",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1473,
+    "id": "a05-ebrp-12-2023-f2-cae5-p9",
+    "esp": "Primaria",
+    "n": 9,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (406)"
+    ]
+  },
+  {
+    "idx": 1475,
+    "id": "a05-ebrp-12-2023-f2-cae5-p13",
+    "esp": "Primaria",
+    "n": 13,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (743)"
+    ]
+  },
+  {
+    "idx": 1480,
+    "id": "a05-ebrp-12-2023-f2-cae5-p20",
+    "esp": "Primaria",
+    "n": 20,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (592)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1482,
+    "id": "a05-ebrp-12-2023-f2-cae5-p22",
+    "esp": "Primaria",
+    "n": 22,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1484,
+    "id": "a05-ebrp-12-2023-f2-cae5-p25",
+    "esp": "Primaria",
+    "n": 25,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1486,
+    "id": "a05-ebrp-12-2023-f2-cae5-p27",
+    "esp": "Primaria",
+    "n": 27,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (435)"
+    ]
+  },
+  {
+    "idx": 1491,
+    "id": "a05-ebrp-12-2023-f2-cae5-p32",
+    "esp": "Primaria",
+    "n": 32,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (573)"
+    ]
+  },
+  {
+    "idx": 1493,
+    "id": "a05-ebrp-12-2023-f2-cae5-p34",
+    "esp": "Primaria",
+    "n": 34,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (758)"
+    ]
+  },
+  {
+    "idx": 1495,
+    "id": "a05-ebrp-12-2023-f2-cae5-p36",
+    "esp": "Primaria",
+    "n": 36,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1263)"
+    ]
+  },
+  {
+    "idx": 1497,
+    "id": "a05-ebrp-12-2023-f2-cae5-p39",
+    "esp": "Primaria",
+    "n": 39,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1308)"
+    ]
+  },
+  {
+    "idx": 1501,
+    "id": "a05-ebrp-12-2023-f2-cae5-p43",
+    "esp": "Primaria",
+    "n": 43,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (508)"
+    ]
+  },
+  {
+    "idx": 1507,
+    "id": "a05-ebrp-12-2023-f2-cae5-p50",
+    "esp": "Primaria",
+    "n": 50,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (652)"
+    ]
+  },
+  {
+    "idx": 1510,
+    "id": "a05-ebrp-12-2023-f2-cae5-p54",
+    "esp": "Primaria",
+    "n": 54,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1266)"
+    ]
+  },
+  {
+    "idx": 1511,
+    "id": "a05-ebrp-12-2023-f2-cae5-p56",
+    "esp": "Primaria",
+    "n": 56,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (668)"
+    ]
+  },
+  {
+    "idx": 1512,
+    "id": "a05-ebrp-12-2023-f2-cae5-p57",
+    "esp": "Primaria",
+    "n": 57,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (404)"
+    ]
+  },
+  {
+    "idx": 1513,
+    "id": "a05-ebrp-12-2023-f2-cae5-p58",
+    "esp": "Primaria",
+    "n": 58,
+    "y": 2023,
+    "issues": [
+      "CTX largo (946)"
+    ]
+  },
+  {
+    "idx": 1514,
+    "id": "a05-ebrp-12-2023-f2-cae5-p59",
+    "esp": "Primaria",
+    "n": 59,
+    "y": 2023,
+    "issues": [
+      "CTX largo (946)"
+    ]
+  },
+  {
+    "idx": 1517,
+    "id": "a04-ebrp-11-2024-f1-cea6-p3",
+    "esp": "Primaria",
+    "n": 3,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1522,
+    "id": "a04-ebrp-11-2024-f1-cea6-p11",
+    "esp": "Primaria",
+    "n": 11,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (482)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1524,
+    "id": "a04-ebrp-11-2024-f1-cea6-p14",
+    "esp": "Primaria",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1228)"
+    ]
+  },
+  {
+    "idx": 1527,
+    "id": "a04-ebrp-11-2024-f1-cea6-p23",
+    "esp": "Primaria",
+    "n": 23,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (718)"
+    ]
+  },
+  {
+    "idx": 1534,
+    "id": "a04-ebrp-11-2024-f1-cea6-p39",
+    "esp": "Primaria",
+    "n": 39,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (420)"
+    ]
+  },
+  {
+    "idx": 1536,
+    "id": "a04-ebrp-11-2024-f1-cea6-p41",
+    "esp": "Primaria",
+    "n": 41,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1221)"
+    ]
+  },
+  {
+    "idx": 1537,
+    "id": "a04-ebrp-11-2024-f1-cea6-p42",
+    "esp": "Primaria",
+    "n": 42,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1544,
+    "id": "a04-ebrp-11-2024-f1-cea6-p50",
+    "esp": "Primaria",
+    "n": 50,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1381)"
+    ]
+  },
+  {
+    "idx": 1548,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p5",
+    "esp": "Primaria",
+    "n": 5,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (438)"
+    ]
+  },
+  {
+    "idx": 1551,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p9",
+    "esp": "Primaria",
+    "n": 9,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (420)"
+    ]
+  },
+  {
+    "idx": 1553,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p11",
+    "esp": "Primaria",
+    "n": 11,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1221)"
+    ]
+  },
+  {
+    "idx": 1554,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p12",
+    "esp": "Primaria",
+    "n": 12,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1561,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p20",
+    "esp": "Primaria",
+    "n": 20,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1381)"
+    ]
+  },
+  {
+    "idx": 1568,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p29",
+    "esp": "Primaria",
+    "n": 29,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1346)"
+    ]
+  },
+  {
+    "idx": 1570,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p33",
+    "esp": "Primaria",
+    "n": 33,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1575,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p41",
+    "esp": "Primaria",
+    "n": 41,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (482)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1577,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p44",
+    "esp": "Primaria",
+    "n": 44,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1228)"
+    ]
+  },
+  {
+    "idx": 1580,
+    "id": "a05-ebrp-12-2024-f2-9b1c-p53",
+    "esp": "Primaria",
+    "n": 53,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (718)"
+    ]
+  },
+  {
+    "idx": 1588,
+    "id": "a10-ebrs-11-2021-f1-482b-p33",
+    "esp": "Arte y Cultura",
+    "n": 33,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1000)"
+    ]
+  },
+  {
+    "idx": 1645,
+    "id": "a28-ebrs-11-2024-f1-2440-p27",
+    "esp": "Inglés",
+    "n": 27,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (487)"
+    ]
+  },
+  {
+    "idx": 1646,
+    "id": "a28-ebrs-11-2024-f1-2440-p29",
+    "esp": "Inglés",
+    "n": 29,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (561)"
+    ]
+  },
+  {
+    "idx": 1648,
+    "id": "a28-ebrs-11-2024-f1-2440-p23",
+    "esp": "Inglés",
+    "n": 23,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (655)"
+    ]
+  },
+  {
+    "idx": 1655,
+    "id": "a28-ebrs-11-2024-f1-2440-p40",
+    "esp": "Inglés",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1265)"
+    ]
+  },
+  {
+    "idx": 1661,
+    "id": "a07-ebrp-11-2021-f1-dd96-p28",
+    "esp": "Primaria",
+    "n": 28,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1500)"
+    ]
+  },
+  {
+    "idx": 1666,
+    "id": "a07-ebrp-11-2021-f1-dd96-p33",
+    "esp": "Primaria",
+    "n": 33,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1667,
+    "id": "a07-ebrp-11-2021-f1-dd96-p34",
+    "esp": "Primaria",
+    "n": 34,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1683,
+    "id": "a07-ebrp-11-2021-f1-dd96-p56",
+    "esp": "Primaria",
+    "n": 56,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (959)"
+    ]
+  },
+  {
+    "idx": 1686,
+    "id": "a08-ebrp-12-2021-f2-df28-p4",
+    "esp": "Primaria",
+    "n": 4,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1718,
+    "id": "a34-ebrp-11-2024-f1-3360-p13",
+    "esp": "Primaria",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (437)",
+      "ALT B larga (492)",
+      "ALT C larga (527)"
+    ]
+  },
+  {
+    "idx": 1719,
+    "id": "a34-ebrp-11-2024-f1-3360-p14",
+    "esp": "Primaria",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (818)"
+    ]
+  },
+  {
+    "idx": 1730,
+    "id": "a34-ebrp-11-2024-f1-3360-p24",
+    "esp": "Primaria",
+    "n": 24,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (425)"
+    ]
+  },
+  {
+    "idx": 1733,
+    "id": "a34-ebrp-11-2024-f1-3360-p27",
+    "esp": "Primaria",
+    "n": 27,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (518)"
+    ]
+  },
+  {
+    "idx": 1735,
+    "id": "a34-ebrp-11-2024-f1-3360-p32",
+    "esp": "Primaria",
+    "n": 32,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (622)"
+    ]
+  },
+  {
+    "idx": 1739,
+    "id": "a34-ebrp-11-2024-f1-3360-p35",
+    "esp": "Primaria",
+    "n": 35,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 1778,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p5",
+    "esp": "Educación Religiosa",
+    "n": 5,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (753)"
+    ]
+  },
+  {
+    "idx": 1786,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p16",
+    "esp": "Educación Religiosa",
+    "n": 16,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1787,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p18",
+    "esp": "Educación Religiosa",
+    "n": 18,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (519)"
+    ]
+  },
+  {
+    "idx": 1791,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p22",
+    "esp": "Educación Religiosa",
+    "n": 22,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (439)"
+    ]
+  },
+  {
+    "idx": 1794,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p25",
+    "esp": "Educación Religiosa",
+    "n": 25,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1797,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p29",
+    "esp": "Educación Religiosa",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1800,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p31",
+    "esp": "Educación Religiosa",
+    "n": 31,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (424)",
+      "ALT B larga (446)",
+      "ALT C larga (453)"
+    ]
+  },
+  {
+    "idx": 1801,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p32",
+    "esp": "Educación Religiosa",
+    "n": 32,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C larga (709)"
+    ]
+  },
+  {
+    "idx": 1804,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p35",
+    "esp": "Educación Religiosa",
+    "n": 35,
+    "y": 2023,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1809,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p41",
+    "esp": "Educación Religiosa",
+    "n": 41,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1813,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p45",
+    "esp": "Educación Religiosa",
+    "n": 45,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (403)"
+    ]
+  },
+  {
+    "idx": 1814,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p46",
+    "esp": "Educación Religiosa",
+    "n": 46,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (401)"
+    ]
+  },
+  {
+    "idx": 1815,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p47",
+    "esp": "Educación Religiosa",
+    "n": 47,
+    "y": 2023,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1818,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p50",
+    "esp": "Educación Religiosa",
+    "n": 50,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (454)",
+      "ALT B larga (457)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 1822,
+    "id": "a34-ebrs-11-2023-f1-e2a0-p56",
+    "esp": "Educación Religiosa",
+    "n": 56,
+    "y": 2023,
+    "issues": [
+      "ALT B larga (406)",
+      "ALT C larga (756)"
+    ]
+  },
+  {
+    "idx": 1826,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p3",
+    "esp": "Educación Religiosa",
+    "n": 3,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C larga (709)"
+    ]
+  },
+  {
+    "idx": 1829,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p6",
+    "esp": "Educación Religiosa",
+    "n": 6,
+    "y": 2023,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1834,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p12",
+    "esp": "Educación Religiosa",
+    "n": 12,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1838,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p16",
+    "esp": "Educación Religiosa",
+    "n": 16,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (403)"
+    ]
+  },
+  {
+    "idx": 1839,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p17",
+    "esp": "Educación Religiosa",
+    "n": 17,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (401)"
+    ]
+  },
+  {
+    "idx": 1840,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p18",
+    "esp": "Educación Religiosa",
+    "n": 18,
+    "y": 2023,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1843,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p21",
+    "esp": "Educación Religiosa",
+    "n": 21,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (454)",
+      "ALT B larga (457)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 1847,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p27",
+    "esp": "Educación Religiosa",
+    "n": 27,
+    "y": 2023,
+    "issues": [
+      "ALT B larga (406)",
+      "ALT C larga (422)"
+    ]
+  },
+  {
+    "idx": 1848,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p26",
+    "esp": "Educación Religiosa",
+    "n": 26,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (721)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1849,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p29",
+    "esp": "Educación Religiosa",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (740)"
+    ]
+  },
+  {
+    "idx": 1852,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p34",
+    "esp": "Educación Religiosa",
+    "n": 34,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (753)"
+    ]
+  },
+  {
+    "idx": 1860,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p45",
+    "esp": "Educación Religiosa",
+    "n": 45,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1861,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p47",
+    "esp": "Educación Religiosa",
+    "n": 47,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (519)"
+    ]
+  },
+  {
+    "idx": 1865,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p51",
+    "esp": "Educación Religiosa",
+    "n": 51,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (439)"
+    ]
+  },
+  {
+    "idx": 1868,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p54",
+    "esp": "Educación Religiosa",
+    "n": 54,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 1871,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p58",
+    "esp": "Educación Religiosa",
+    "n": 58,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1874,
+    "id": "a35-ebrs-12-2023-f2-6cf7-p60",
+    "esp": "Educación Religiosa",
+    "n": 60,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (424)",
+      "ALT B larga (446)",
+      "ALT C larga (453)"
+    ]
+  },
+  {
+    "idx": 1881,
+    "id": "a22-ebrs-11-2024-f1-3528-p11",
+    "esp": "Educación Religiosa",
+    "n": 11,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (405)",
+      "ALT B larga (402)"
+    ]
+  },
+  {
+    "idx": 1882,
+    "id": "a22-ebrs-11-2024-f1-3528-p13",
+    "esp": "Educación Religiosa",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (757)"
+    ]
+  },
+  {
+    "idx": 1883,
+    "id": "a22-ebrs-11-2024-f1-3528-p14",
+    "esp": "Educación Religiosa",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (408)",
+      "ALT C larga (401)"
+    ]
+  },
+  {
+    "idx": 1884,
+    "id": "a22-ebrs-11-2024-f1-3528-p16",
+    "esp": "Educación Religiosa",
+    "n": 16,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (444)"
+    ]
+  },
+  {
+    "idx": 1887,
+    "id": "a22-ebrs-11-2024-f1-3528-p24",
+    "esp": "Educación Religiosa",
+    "n": 24,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (420)",
+      "ALT C larga (761)"
+    ]
+  },
+  {
+    "idx": 1888,
+    "id": "a22-ebrs-11-2024-f1-3528-p22",
+    "esp": "Educación Religiosa",
+    "n": 22,
+    "y": 2024,
+    "issues": [
+      "ALT B larga (407)",
+      "ALT C larga (444)"
+    ]
+  },
+  {
+    "idx": 1896,
+    "id": "a22-ebrs-11-2024-f1-3528-p31",
+    "esp": "Educación Religiosa",
+    "n": 31,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1898,
+    "id": "a22-ebrs-11-2024-f1-3528-p32",
+    "esp": "Educación Religiosa",
+    "n": 32,
+    "y": 2024,
+    "issues": [
+      "ALT B larga (437)",
+      "ALT C larga (443)"
+    ]
+  },
+  {
+    "idx": 1901,
+    "id": "a22-ebrs-11-2024-f1-3528-p54",
+    "esp": "Educación Religiosa",
+    "n": 54,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (453)"
+    ]
+  },
+  {
+    "idx": 1905,
+    "id": "a01-ebri-11-2021-f1-3afb-p3",
+    "esp": "Inicial",
+    "n": 3,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2349)"
+    ]
+  },
+  {
+    "idx": 1908,
+    "id": "a01-ebri-11-2021-f1-3afb-p12",
+    "esp": "Inicial",
+    "n": 12,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1416)"
+    ]
+  },
+  {
+    "idx": 1909,
+    "id": "a01-ebri-11-2021-f1-3afb-p20",
+    "esp": "Inicial",
+    "n": 20,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (999)"
+    ]
+  },
+  {
+    "idx": 1916,
+    "id": "a01-ebri-11-2021-f1-3afb-p37",
+    "esp": "Inicial",
+    "n": 37,
+    "y": 2021,
+    "issues": [
+      "TXT 6 signos ¿"
+    ]
+  },
+  {
+    "idx": 1918,
+    "id": "a01-ebri-11-2021-f1-3afb-p39",
+    "esp": "Inicial",
+    "n": 39,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1270)"
+    ]
+  },
+  {
+    "idx": 1919,
+    "id": "a01-ebri-11-2021-f1-3afb-p40",
+    "esp": "Inicial",
+    "n": 40,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1270)"
+    ]
+  },
+  {
+    "idx": 1921,
+    "id": "a01-ebri-11-2021-f1-3afb-p43",
+    "esp": "Inicial",
+    "n": 43,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2345)"
+    ]
+  },
+  {
+    "idx": 1922,
+    "id": "a01-ebri-11-2021-f1-3afb-p45",
+    "esp": "Inicial",
+    "n": 45,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 1924,
+    "id": "a02-ebri-12-2021-f2-8eeb-p5",
+    "esp": "Inicial",
+    "n": 5,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1500)"
+    ]
+  },
+  {
+    "idx": 1928,
+    "id": "a02-ebri-12-2021-f2-8eeb-p16",
+    "esp": "Inicial",
+    "n": 16,
+    "y": 2021,
+    "issues": [
+      "TXT 6 signos ¿"
+    ]
+  },
+  {
+    "idx": 1931,
+    "id": "a02-ebri-12-2021-f2-8eeb-p22",
+    "esp": "Inicial",
+    "n": 22,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2345)"
+    ]
+  },
+  {
+    "idx": 1937,
+    "id": "a02-ebri-12-2021-f2-8eeb-p42",
+    "esp": "Inicial",
+    "n": 42,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (999)"
+    ]
+  },
+  {
+    "idx": 1939,
+    "id": "a02-ebri-12-2021-f2-8eeb-p47",
+    "esp": "Inicial",
+    "n": 47,
+    "y": 2021,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 1946,
+    "id": "a01-ebri-11-2023-f1-e7ac-p11",
+    "esp": "Inicial",
+    "n": 11,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1958,
+    "id": "a01-ebri-11-2023-f1-e7ac-p29",
+    "esp": "Inicial",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1959,
+    "id": "a01-ebri-11-2023-f1-e7ac-p31",
+    "esp": "Inicial",
+    "n": 31,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (522)"
+    ]
+  },
+  {
+    "idx": 1963,
+    "id": "a01-ebri-11-2023-f1-e7ac-p30",
+    "esp": "Inicial",
+    "n": 30,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (805)"
+    ]
+  },
+  {
+    "idx": 1973,
+    "id": "a01-ebri-11-2023-f1-e7ac-p38",
+    "esp": "Inicial",
+    "n": 38,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1978,
+    "id": "a02-ebri-12-2023-f2-1c53-p5",
+    "esp": "Inicial",
+    "n": 5,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (540)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1982,
+    "id": "a02-ebri-12-2023-f2-1c53-p10",
+    "esp": "Inicial",
+    "n": 10,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 1983,
+    "id": "a02-ebri-12-2023-f2-1c53-p11",
+    "esp": "Inicial",
+    "n": 11,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (805)"
+    ]
+  },
+  {
+    "idx": 1985,
+    "id": "a02-ebri-12-2023-f2-1c53-p12",
+    "esp": "Inicial",
+    "n": 12,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1330)"
+    ]
+  },
+  {
+    "idx": 1992,
+    "id": "a02-ebri-12-2023-f2-1c53-p19",
+    "esp": "Inicial",
+    "n": 19,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2004,
+    "id": "a02-ebri-12-2023-f2-1c53-p31",
+    "esp": "Inicial",
+    "n": 31,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2009,
+    "id": "a02-ebri-12-2023-f2-1c53-p44",
+    "esp": "Inicial",
+    "n": 44,
+    "y": 2023,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2020,
+    "id": "a01-ebri-11-2024-f1-2f27-p5",
+    "esp": "Inicial",
+    "n": 5,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2023,
+    "id": "a01-ebri-11-2024-f1-2f27-p7",
+    "esp": "Inicial",
+    "n": 7,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2024,
+    "id": "a01-ebri-11-2024-f1-2f27-p9",
+    "esp": "Inicial",
+    "n": 9,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C larga (454)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2025,
+    "id": "a01-ebri-11-2024-f1-2f27-p10",
+    "esp": "Inicial",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2028,
+    "id": "a01-ebri-11-2024-f1-2f27-p13",
+    "esp": "Inicial",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2029,
+    "id": "a01-ebri-11-2024-f1-2f27-p14",
+    "esp": "Inicial",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2031,
+    "id": "a01-ebri-11-2024-f1-2f27-p18",
+    "esp": "Inicial",
+    "n": 18,
+    "y": 2024,
+    "issues": [
+      "ALT B larga (424)",
+      "ALT C larga (640)"
+    ]
+  },
+  {
+    "idx": 2033,
+    "id": "a01-ebri-11-2024-f1-2f27-p20",
+    "esp": "Inicial",
+    "n": 20,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2034,
+    "id": "a01-ebri-11-2024-f1-2f27-p17",
+    "esp": "Inicial",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (426)",
+      "ALT C larga (405)"
+    ]
+  },
+  {
+    "idx": 2036,
+    "id": "a01-ebri-11-2024-f1-2f27-p24",
+    "esp": "Inicial",
+    "n": 24,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (574)"
+    ]
+  },
+  {
+    "idx": 2039,
+    "id": "a01-ebri-11-2024-f1-2f27-p27",
+    "esp": "Inicial",
+    "n": 27,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (541)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2040,
+    "id": "a01-ebri-11-2024-f1-2f27-p28",
+    "esp": "Inicial",
+    "n": 28,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1279)"
+    ]
+  },
+  {
+    "idx": 2041,
+    "id": "a01-ebri-11-2024-f1-2f27-p30",
+    "esp": "Inicial",
+    "n": 30,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (544)"
+    ]
+  },
+  {
+    "idx": 2045,
+    "id": "a01-ebri-11-2024-f1-2f27-p35",
+    "esp": "Inicial",
+    "n": 35,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (536)"
+    ]
+  },
+  {
+    "idx": 2046,
+    "id": "a01-ebri-11-2024-f1-2f27-p37",
+    "esp": "Inicial",
+    "n": 37,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2049,
+    "id": "a01-ebri-11-2024-f1-2f27-p40",
+    "esp": "Inicial",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (735)"
+    ]
+  },
+  {
+    "idx": 2052,
+    "id": "a01-ebri-11-2024-f1-2f27-p44",
+    "esp": "Inicial",
+    "n": 44,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (575)"
+    ]
+  },
+  {
+    "idx": 2055,
+    "id": "a01-ebri-11-2024-f1-2f27-p53",
+    "esp": "Inicial",
+    "n": 53,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2058,
+    "id": "a01-ebri-11-2024-f1-2f27-p58",
+    "esp": "Inicial",
+    "n": 58,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2063,
+    "id": "a02-ebri-12-2024-f2-be67-p5",
+    "esp": "Inicial",
+    "n": 5,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (536)"
+    ]
+  },
+  {
+    "idx": 2067,
+    "id": "a02-ebri-12-2024-f2-be67-p10",
+    "esp": "Inicial",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (735)"
+    ]
+  },
+  {
+    "idx": 2070,
+    "id": "a02-ebri-12-2024-f2-be67-p14",
+    "esp": "Inicial",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (575)"
+    ]
+  },
+  {
+    "idx": 2074,
+    "id": "a02-ebri-12-2024-f2-be67-p23",
+    "esp": "Inicial",
+    "n": 23,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2077,
+    "id": "a02-ebri-12-2024-f2-be67-p28",
+    "esp": "Inicial",
+    "n": 28,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2081,
+    "id": "a02-ebri-12-2024-f2-be67-p26",
+    "esp": "Inicial",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2082,
+    "id": "a02-ebri-12-2024-f2-be67-p39",
+    "esp": "Inicial",
+    "n": 39,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT C larga (454)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2083,
+    "id": "a02-ebri-12-2024-f2-be67-p40",
+    "esp": "Inicial",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2086,
+    "id": "a02-ebri-12-2024-f2-be67-p43",
+    "esp": "Inicial",
+    "n": 43,
+    "y": 2024,
+    "issues": [
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2087,
+    "id": "a02-ebri-12-2024-f2-be67-p44",
+    "esp": "Inicial",
+    "n": 44,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2089,
+    "id": "a02-ebri-12-2024-f2-be67-p48",
+    "esp": "Inicial",
+    "n": 48,
+    "y": 2024,
+    "issues": [
+      "ALT B larga (424)",
+      "ALT C larga (640)"
+    ]
+  },
+  {
+    "idx": 2092,
+    "id": "a02-ebri-12-2024-f2-be67-p50",
+    "esp": "Inicial",
+    "n": 50,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2093,
+    "id": "a02-ebri-12-2024-f2-be67-p36",
+    "esp": "Inicial",
+    "n": 36,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (426)",
+      "ALT C larga (405)"
+    ]
+  },
+  {
+    "idx": 2095,
+    "id": "a02-ebri-12-2024-f2-be67-p54",
+    "esp": "Inicial",
+    "n": 54,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (574)"
+    ]
+  },
+  {
+    "idx": 2097,
+    "id": "a02-ebri-12-2024-f2-be67-p57",
+    "esp": "Inicial",
+    "n": 57,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (541)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2098,
+    "id": "a02-ebri-12-2024-f2-be67-p58",
+    "esp": "Inicial",
+    "n": 58,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1279)"
+    ]
+  },
+  {
+    "idx": 2099,
+    "id": "a02-ebri-12-2024-f2-be67-p60",
+    "esp": "Inicial",
+    "n": 60,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (544)"
+    ]
+  },
+  {
+    "idx": 2101,
+    "id": "a16-ebrs-31-2021-f1-b647-p5",
+    "esp": "Educación Religiosa",
+    "n": 5,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1484)"
+    ]
+  },
+  {
+    "idx": 2102,
+    "id": "a16-ebrs-31-2021-f1-b647-p6",
+    "esp": "Educación Religiosa",
+    "n": 6,
+    "y": 2021,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2110,
+    "id": "a16-ebrs-31-2021-f1-b647-p37",
+    "esp": "Educación Religiosa",
+    "n": 37,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1535)"
+    ]
+  },
+  {
+    "idx": 2119,
+    "id": "a17-ebrs-32-2021-f2-d0b4-p13",
+    "esp": "Educación Religiosa",
+    "n": 13,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1569)"
+    ]
+  },
+  {
+    "idx": 2121,
+    "id": "a17-ebrs-32-2021-f2-d0b4-p17",
+    "esp": "Educación Religiosa",
+    "n": 17,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1535)"
+    ]
+  },
+  {
+    "idx": 2128,
+    "id": "a17-ebrs-32-2021-f2-d0b4-p29",
+    "esp": "Educación Religiosa",
+    "n": 29,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1484)"
+    ]
+  },
+  {
+    "idx": 2130,
+    "id": "a17-ebrs-32-2021-f2-d0b4-p34",
+    "esp": "Educación Religiosa",
+    "n": 34,
+    "y": 2021,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2142,
+    "id": "a40-ebrs-11-2023-f1-8236-p3",
+    "esp": "Matemática",
+    "n": 3,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2144,
+    "id": "a40-ebrs-11-2023-f1-8236-p8",
+    "esp": "Matemática",
+    "n": 8,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2147,
+    "id": "a40-ebrs-11-2023-f1-8236-p14",
+    "esp": "Matemática",
+    "n": 14,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (579)"
+    ]
+  },
+  {
+    "idx": 2153,
+    "id": "a40-ebrs-11-2023-f1-8236-p21",
+    "esp": "Matemática",
+    "n": 21,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (530)",
+      "ALT B larga (408)"
+    ]
+  },
+  {
+    "idx": 2154,
+    "id": "a40-ebrs-11-2023-f1-8236-p22",
+    "esp": "Matemática",
+    "n": 22,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2165,
+    "id": "a40-ebrs-11-2023-f1-8236-p36",
+    "esp": "Matemática",
+    "n": 36,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2167,
+    "id": "a40-ebrs-11-2023-f1-8236-p39",
+    "esp": "Matemática",
+    "n": 39,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 2172,
+    "id": "a40-ebrs-11-2023-f1-8236-p48",
+    "esp": "Matemática",
+    "n": 48,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (542)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2187,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p7",
+    "esp": "Matemática",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2189,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p10",
+    "esp": "Matemática",
+    "n": 10,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 2196,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p19",
+    "esp": "Matemática",
+    "n": 19,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (542)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2206,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p32",
+    "esp": "Matemática",
+    "n": 32,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2207,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p35",
+    "esp": "Matemática",
+    "n": 35,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (562)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2208,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p37",
+    "esp": "Matemática",
+    "n": 37,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2211,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p43",
+    "esp": "Matemática",
+    "n": 43,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (579)"
+    ]
+  },
+  {
+    "idx": 2217,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p50",
+    "esp": "Matemática",
+    "n": 50,
+    "y": 2023,
+    "issues": [
+      "ALT A larga (530)",
+      "ALT B larga (408)"
+    ]
+  },
+  {
+    "idx": 2218,
+    "id": "a41-ebrs-12-2023-f2-7b7d-p51",
+    "esp": "Matemática",
+    "n": 51,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2226,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p2",
+    "esp": "Matemática",
+    "n": 2,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2230,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p8",
+    "esp": "Matemática",
+    "n": 8,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2233,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p15",
+    "esp": "Matemática",
+    "n": 15,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 2236,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p20",
+    "esp": "Matemática",
+    "n": 20,
+    "y": 2024,
+    "issues": [
+      "TXT 7 signos ¿"
+    ]
+  },
+  {
+    "idx": 2238,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p22",
+    "esp": "Matemática",
+    "n": 22,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (749)"
+    ]
+  },
+  {
+    "idx": 2242,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p26",
+    "esp": "Matemática",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (640)"
+    ]
+  },
+  {
+    "idx": 2248,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p29",
+    "esp": "Matemática",
+    "n": 29,
+    "y": 2024,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2250,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p40",
+    "esp": "Matemática",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (515)"
+    ]
+  },
+  {
+    "idx": 2253,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p45",
+    "esp": "Matemática",
+    "n": 45,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (706)"
+    ]
+  },
+  {
+    "idx": 2256,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p50",
+    "esp": "Matemática",
+    "n": 50,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2263,
+    "id": "a31-ebrs-11-2024-f1-7e3a-p58",
+    "esp": "Matemática",
+    "n": 58,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (587)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2269,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p8",
+    "esp": "Matemática",
+    "n": 8,
+    "y": 2024,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2279,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p20",
+    "esp": "Matemática",
+    "n": 20,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2285,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p28",
+    "esp": "Matemática",
+    "n": 28,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (587)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2287,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p32",
+    "esp": "Matemática",
+    "n": 32,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2291,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p38",
+    "esp": "Matemática",
+    "n": 38,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2292,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p45",
+    "esp": "Matemática",
+    "n": 45,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (413)"
+    ]
+  },
+  {
+    "idx": 2295,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p50",
+    "esp": "Matemática",
+    "n": 50,
+    "y": 2024,
+    "issues": [
+      "TXT 7 signos ¿"
+    ]
+  },
+  {
+    "idx": 2297,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p52",
+    "esp": "Matemática",
+    "n": 52,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (749)"
+    ]
+  },
+  {
+    "idx": 2301,
+    "id": "a32-ebrs-12-2024-f2-e7aa-p56",
+    "esp": "Matemática",
+    "n": 56,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (640)"
+    ]
+  },
+  {
+    "idx": 2303,
+    "id": "a13-ebrs-21-2021-f1-4022-p7",
+    "esp": "Ciencia y Tecnología",
+    "n": 7,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1487)"
+    ]
+  },
+  {
+    "idx": 2304,
+    "id": "a13-ebrs-21-2021-f1-4022-p2",
+    "esp": "Ciencia y Tecnología",
+    "n": 2,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1504)"
+    ]
+  },
+  {
+    "idx": 2308,
+    "id": "a13-ebrs-21-2021-f1-4022-p15",
+    "esp": "Ciencia y Tecnología",
+    "n": 15,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1649)"
+    ]
+  },
+  {
+    "idx": 2310,
+    "id": "a13-ebrs-21-2021-f1-4022-p19",
+    "esp": "Ciencia y Tecnología",
+    "n": 19,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2311,
+    "id": "a13-ebrs-21-2021-f1-4022-p22",
+    "esp": "Ciencia y Tecnología",
+    "n": 22,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1163)",
+      "TXT largo (1326)"
+    ]
+  },
+  {
+    "idx": 2312,
+    "id": "a13-ebrs-21-2021-f1-4022-p23",
+    "esp": "Ciencia y Tecnología",
+    "n": 23,
+    "y": 2021,
+    "issues": [
+      "CTX largo (814)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2313,
+    "id": "a13-ebrs-21-2021-f1-4022-p25",
+    "esp": "Ciencia y Tecnología",
+    "n": 25,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1658)",
+      "TXT largo (1310)"
+    ]
+  },
+  {
+    "idx": 2314,
+    "id": "a13-ebrs-21-2021-f1-4022-p26",
+    "esp": "Ciencia y Tecnología",
+    "n": 26,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1000)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2316,
+    "id": "a13-ebrs-21-2021-f1-4022-p31",
+    "esp": "Ciencia y Tecnología",
+    "n": 31,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1257)"
+    ]
+  },
+  {
+    "idx": 2317,
+    "id": "a13-ebrs-21-2021-f1-4022-p32",
+    "esp": "Ciencia y Tecnología",
+    "n": 32,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1257)"
+    ]
+  },
+  {
+    "idx": 2318,
+    "id": "a13-ebrs-21-2021-f1-4022-p33",
+    "esp": "Ciencia y Tecnología",
+    "n": 33,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1257)"
+    ]
+  },
+  {
+    "idx": 2322,
+    "id": "a13-ebrs-21-2021-f1-4022-p38",
+    "esp": "Ciencia y Tecnología",
+    "n": 38,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (967)"
+    ]
+  },
+  {
+    "idx": 2324,
+    "id": "a13-ebrs-21-2021-f1-4022-p48",
+    "esp": "Ciencia y Tecnología",
+    "n": 48,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2325,
+    "id": "a13-ebrs-21-2021-f1-4022-p45",
+    "esp": "Ciencia y Tecnología",
+    "n": 45,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (972)"
+    ]
+  },
+  {
+    "idx": 2326,
+    "id": "a13-ebrs-21-2021-f1-4022-p51",
+    "esp": "Ciencia y Tecnología",
+    "n": 51,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1496)"
+    ]
+  },
+  {
+    "idx": 2328,
+    "id": "a13-ebrs-21-2021-f1-4022-p50",
+    "esp": "Ciencia y Tecnología",
+    "n": 50,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2329,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p8",
+    "esp": "Ciencia y Tecnología",
+    "n": 8,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1533)"
+    ]
+  },
+  {
+    "idx": 2335,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p18",
+    "esp": "Ciencia y Tecnología",
+    "n": 18,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2336,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p19",
+    "esp": "Ciencia y Tecnología",
+    "n": 19,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2337,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p21",
+    "esp": "Ciencia y Tecnología",
+    "n": 21,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1000)"
+    ]
+  },
+  {
+    "idx": 2338,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p22",
+    "esp": "Ciencia y Tecnología",
+    "n": 22,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1000)"
+    ]
+  },
+  {
+    "idx": 2339,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p23",
+    "esp": "Ciencia y Tecnología",
+    "n": 23,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1000)"
+    ]
+  },
+  {
+    "idx": 2343,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p32",
+    "esp": "Ciencia y Tecnología",
+    "n": 32,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1504)"
+    ]
+  },
+  {
+    "idx": 2350,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p43",
+    "esp": "Ciencia y Tecnología",
+    "n": 43,
+    "y": 2021,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2351,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p45",
+    "esp": "Ciencia y Tecnología",
+    "n": 45,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "TXT largo (1310)"
+    ]
+  },
+  {
+    "idx": 2352,
+    "id": "a14-ebrs-22-2021-f2-1ee1-p46",
+    "esp": "Ciencia y Tecnología",
+    "n": 46,
+    "y": 2021,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2356,
+    "id": "a13-ebrs-11-2024-f1-25d5-p3",
+    "esp": "Ciencia y Tecnología",
+    "n": 3,
+    "y": 2024,
+    "issues": [
+      "CTX largo (865)"
+    ]
+  },
+  {
+    "idx": 2360,
+    "id": "a13-ebrs-11-2024-f1-25d5-p10",
+    "esp": "Ciencia y Tecnología",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (632)"
+    ]
+  },
+  {
+    "idx": 2361,
+    "id": "a13-ebrs-11-2024-f1-25d5-p11",
+    "esp": "Ciencia y Tecnología",
+    "n": 11,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2363,
+    "id": "a13-ebrs-11-2024-f1-25d5-p13",
+    "esp": "Ciencia y Tecnología",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (535)"
+    ]
+  },
+  {
+    "idx": 2364,
+    "id": "a13-ebrs-11-2024-f1-25d5-p19",
+    "esp": "Ciencia y Tecnología",
+    "n": 19,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (627)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2365,
+    "id": "a13-ebrs-11-2024-f1-25d5-p15",
+    "esp": "Ciencia y Tecnología",
+    "n": 15,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (466)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2367,
+    "id": "a13-ebrs-11-2024-f1-25d5-p17",
+    "esp": "Ciencia y Tecnología",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (533)"
+    ]
+  },
+  {
+    "idx": 2370,
+    "id": "a13-ebrs-11-2024-f1-25d5-p30",
+    "esp": "Ciencia y Tecnología",
+    "n": 30,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (740)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2374,
+    "id": "a13-ebrs-11-2024-f1-25d5-p26",
+    "esp": "Ciencia y Tecnología",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (507)"
+    ]
+  },
+  {
+    "idx": 2378,
+    "id": "a13-ebrs-11-2024-f1-25d5-p43",
+    "esp": "Ciencia y Tecnología",
+    "n": 43,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1481)"
+    ]
+  },
+  {
+    "idx": 2383,
+    "id": "a13-ebrs-11-2024-f1-25d5-p54",
+    "esp": "Ciencia y Tecnología",
+    "n": 54,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1829)"
+    ]
+  },
+  {
+    "idx": 2394,
+    "id": "a19-ebrs-41-2021-f1-eebb-p38",
+    "esp": "Ciencias Sociales",
+    "n": 38,
+    "y": 2021,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2398,
+    "id": "a20-ebrs-42-2021-f2-c770-p55",
+    "esp": "Ciencias Sociales",
+    "n": 55,
+    "y": 2021,
+    "issues": [
+      "CTX largo (910)",
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2399,
+    "id": "a20-ebrs-42-2021-f2-c770-p56",
+    "esp": "Ciencias Sociales",
+    "n": 56,
+    "y": 2021,
+    "issues": [
+      "CTX largo (910)"
+    ]
+  },
+  {
+    "idx": 2403,
+    "id": "a20-ebrs-42-2021-f2-c770-p8",
+    "esp": "Ciencias Sociales",
+    "n": 8,
+    "y": 2021,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2413,
+    "id": "a10-ebrs-11-2024-f1-19c9-p7",
+    "esp": "Ciencias Sociales",
+    "n": 7,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2415,
+    "id": "a10-ebrs-11-2024-f1-19c9-p10",
+    "esp": "Ciencias Sociales",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (658)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2418,
+    "id": "a10-ebrs-11-2024-f1-19c9-p12",
+    "esp": "Ciencias Sociales",
+    "n": 12,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2419,
+    "id": "a10-ebrs-11-2024-f1-19c9-p13",
+    "esp": "Ciencias Sociales",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "ALT C larga (601)"
+    ]
+  },
+  {
+    "idx": 2420,
+    "id": "a10-ebrs-11-2024-f1-19c9-p14",
+    "esp": "Ciencias Sociales",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (730)"
+    ]
+  },
+  {
+    "idx": 2421,
+    "id": "a10-ebrs-11-2024-f1-19c9-p16",
+    "esp": "Ciencias Sociales",
+    "n": 16,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2422,
+    "id": "a10-ebrs-11-2024-f1-19c9-p17",
+    "esp": "Ciencias Sociales",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2423,
+    "id": "a10-ebrs-11-2024-f1-19c9-p18",
+    "esp": "Ciencias Sociales",
+    "n": 18,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿",
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (510)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2431,
+    "id": "a10-ebrs-11-2024-f1-19c9-p30",
+    "esp": "Ciencias Sociales",
+    "n": 30,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (715)",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2434,
+    "id": "a10-ebrs-11-2024-f1-19c9-p32",
+    "esp": "Ciencias Sociales",
+    "n": 32,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (704)"
+    ]
+  },
+  {
+    "idx": 2437,
+    "id": "a10-ebrs-11-2024-f1-19c9-p36",
+    "esp": "Ciencias Sociales",
+    "n": 36,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (733)"
+    ]
+  },
+  {
+    "idx": 2441,
+    "id": "a10-ebrs-11-2024-f1-19c9-p39",
+    "esp": "Ciencias Sociales",
+    "n": 39,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (429)"
+    ]
+  },
+  {
+    "idx": 2443,
+    "id": "a10-ebrs-11-2024-f1-19c9-p40",
+    "esp": "Ciencias Sociales",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (425)"
+    ]
+  },
+  {
+    "idx": 2448,
+    "id": "a10-ebrs-11-2024-f1-19c9-p45",
+    "esp": "Ciencias Sociales",
+    "n": 45,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (464)"
+    ]
+  },
+  {
+    "idx": 2449,
+    "id": "a10-ebrs-11-2024-f1-19c9-p46",
+    "esp": "Ciencias Sociales",
+    "n": 46,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (752)"
+    ]
+  },
+  {
+    "idx": 2457,
+    "id": "a07-ebrs-11-2019-f1-3dcc-p24",
+    "esp": "Arte y Cultura",
+    "n": 24,
+    "y": 2019,
+    "issues": [
+      "TXT largo (1301)"
+    ]
+  },
+  {
+    "idx": 2461,
+    "id": "a07-ebrs-11-2019-f1-3dcc-p34",
+    "esp": "Arte y Cultura",
+    "n": 34,
+    "y": 2019,
+    "issues": [
+      "CTX largo (2158)",
+      "TXT largo (1282)"
+    ]
+  },
+  {
+    "idx": 2462,
+    "id": "a07-ebrs-11-2019-f1-3dcc-p35",
+    "esp": "Arte y Cultura",
+    "n": 35,
+    "y": 2019,
+    "issues": [
+      "CTX largo (990)"
+    ]
+  },
+  {
+    "idx": 2465,
+    "id": "a07-ebrs-11-2019-f1-3dcc-p54",
+    "esp": "Arte y Cultura",
+    "n": 54,
+    "y": 2019,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2160)"
+    ]
+  },
+  {
+    "idx": 2466,
+    "id": "a07-ebrs-11-2019-f1-3dcc-p51",
+    "esp": "Arte y Cultura",
+    "n": 51,
+    "y": 2019,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2468,
+    "id": "a08-ebrs-12-2019-f2-c322-p2",
+    "esp": "Arte y Cultura",
+    "n": 2,
+    "y": 2019,
+    "issues": [
+      "CTX largo (1807)"
+    ]
+  },
+  {
+    "idx": 2469,
+    "id": "a08-ebrs-12-2019-f2-c322-p10",
+    "esp": "Arte y Cultura",
+    "n": 10,
+    "y": 2019,
+    "issues": [
+      "TXT largo (1282)"
+    ]
+  },
+  {
+    "idx": 2470,
+    "id": "a08-ebrs-12-2019-f2-c322-p11",
+    "esp": "Arte y Cultura",
+    "n": 11,
+    "y": 2019,
+    "issues": [
+      "CTX largo (2203)"
+    ]
+  },
+  {
+    "idx": 2477,
+    "id": "a08-ebrs-12-2019-f2-c322-p37",
+    "esp": "Arte y Cultura",
+    "n": 37,
+    "y": 2019,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1214)"
+    ]
+  },
+  {
+    "idx": 2481,
+    "id": "a08-ebrs-12-2019-f2-c322-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2019,
+    "issues": [
+      "TXT largo (1301)"
+    ]
+  },
+  {
+    "idx": 2483,
+    "id": "a10-ebrs-11-2021-f1-88cc-p9",
+    "esp": "Arte y Cultura",
+    "n": 9,
+    "y": 2021,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2486,
+    "id": "a10-ebrs-11-2021-f1-88cc-p18",
+    "esp": "Arte y Cultura",
+    "n": 18,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2500,
+    "id": "a11-ebrs-12-2021-f2-81a4-p26",
+    "esp": "Arte y Cultura",
+    "n": 26,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (2051)"
+    ]
+  },
+  {
+    "idx": 2503,
+    "id": "a11-ebrs-12-2021-f2-81a4-p31",
+    "esp": "Arte y Cultura",
+    "n": 31,
+    "y": 2021,
+    "issues": [
+      "CTX largo (2508)"
+    ]
+  },
+  {
+    "idx": 2513,
+    "id": "a22-ebrs-11-2023-f1-94b5-p7",
+    "esp": "Comunicación",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2514,
+    "id": "a22-ebrs-11-2023-f1-94b5-p8",
+    "esp": "Comunicación",
+    "n": 8,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (800)"
+    ]
+  },
+  {
+    "idx": 2524,
+    "id": "a22-ebrs-11-2023-f1-94b5-p18",
+    "esp": "Comunicación",
+    "n": 18,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (874)"
+    ]
+  },
+  {
+    "idx": 2528,
+    "id": "a22-ebrs-11-2023-f1-94b5-p30",
+    "esp": "Comunicación",
+    "n": 30,
+    "y": 2023,
+    "issues": [
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 2529,
+    "id": "a22-ebrs-11-2023-f1-94b5-p23",
+    "esp": "Comunicación",
+    "n": 23,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (664)"
+    ]
+  },
+  {
+    "idx": 2536,
+    "id": "a22-ebrs-11-2023-f1-94b5-p32",
+    "esp": "Comunicación",
+    "n": 32,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2537,
+    "id": "a22-ebrs-11-2023-f1-94b5-p45",
+    "esp": "Comunicación",
+    "n": 45,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2540,
+    "id": "a22-ebrs-11-2023-f1-94b5-p37",
+    "esp": "Comunicación",
+    "n": 37,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2543,
+    "id": "a22-ebrs-11-2023-f1-94b5-p41",
+    "esp": "Comunicación",
+    "n": 41,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2544,
+    "id": "a22-ebrs-11-2023-f1-94b5-p42",
+    "esp": "Comunicación",
+    "n": 42,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2546,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p5",
+    "esp": "Comunicación",
+    "n": 5,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (664)"
+    ]
+  },
+  {
+    "idx": 2552,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p12",
+    "esp": "Comunicación",
+    "n": 12,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (420)"
+    ]
+  },
+  {
+    "idx": 2554,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p16",
+    "esp": "Comunicación",
+    "n": 16,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2557,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p19",
+    "esp": "Comunicación",
+    "n": 19,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2561,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p23",
+    "esp": "Comunicación",
+    "n": 23,
+    "y": 2023,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2562,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p24",
+    "esp": "Comunicación",
+    "n": 24,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2566,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p28",
+    "esp": "Comunicación",
+    "n": 28,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2567,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p29",
+    "esp": "Comunicación",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (800)"
+    ]
+  },
+  {
+    "idx": 2576,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p39",
+    "esp": "Comunicación",
+    "n": 39,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (874)"
+    ]
+  },
+  {
+    "idx": 2580,
+    "id": "a23-ebrs-12-2023-f2-3b8e-p59",
+    "esp": "Comunicación",
+    "n": 59,
+    "y": 2023,
+    "issues": [
+      "TXT 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 2582,
+    "id": "a16-ebrs-11-2024-f1-33d3-p5",
+    "esp": "Comunicación",
+    "n": 5,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (1922)"
+    ]
+  },
+  {
+    "idx": 2583,
+    "id": "a16-ebrs-11-2024-f1-33d3-p4",
+    "esp": "Comunicación",
+    "n": 4,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (826)"
+    ]
+  },
+  {
+    "idx": 2588,
+    "id": "a16-ebrs-11-2024-f1-33d3-p11",
+    "esp": "Comunicación",
+    "n": 11,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1302)"
+    ]
+  },
+  {
+    "idx": 2589,
+    "id": "a16-ebrs-11-2024-f1-33d3-p13",
+    "esp": "Comunicación",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C larga (499)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2591,
+    "id": "a16-ebrs-11-2024-f1-33d3-p14",
+    "esp": "Comunicación",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2593,
+    "id": "a16-ebrs-11-2024-f1-33d3-p17",
+    "esp": "Comunicación",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (490)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2596,
+    "id": "a16-ebrs-11-2024-f1-33d3-p19",
+    "esp": "Comunicación",
+    "n": 19,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (779)"
+    ]
+  },
+  {
+    "idx": 2600,
+    "id": "a16-ebrs-11-2024-f1-33d3-p26",
+    "esp": "Comunicación",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2604,
+    "id": "a16-ebrs-11-2024-f1-33d3-p29",
+    "esp": "Comunicación",
+    "n": 29,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (824)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2605,
+    "id": "a16-ebrs-11-2024-f1-33d3-p35",
+    "esp": "Comunicación",
+    "n": 35,
+    "y": 2024,
+    "issues": [
+      "CTX tiene ¿"
+    ]
+  },
+  {
+    "idx": 2607,
+    "id": "a16-ebrs-11-2024-f1-33d3-p31",
+    "esp": "Comunicación",
+    "n": 31,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (853)"
+    ]
+  },
+  {
+    "idx": 2609,
+    "id": "a16-ebrs-11-2024-f1-33d3-p33",
+    "esp": "Comunicación",
+    "n": 33,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (741)"
+    ]
+  },
+  {
+    "idx": 2611,
+    "id": "a16-ebrs-11-2024-f1-33d3-p34",
+    "esp": "Comunicación",
+    "n": 34,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (703)"
+    ]
+  },
+  {
+    "idx": 2621,
+    "id": "a16-ebrs-11-2024-f1-33d3-p43",
+    "esp": "Comunicación",
+    "n": 43,
+    "y": 2024,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2623,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p1",
+    "esp": "Comunicación",
+    "n": 1,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1266)",
+      "ALT C larga (674)"
+    ]
+  },
+  {
+    "idx": 2624,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p5",
+    "esp": "Comunicación",
+    "n": 5,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1254)"
+    ]
+  },
+  {
+    "idx": 2626,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p8",
+    "esp": "Comunicación",
+    "n": 8,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (824)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2628,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p10",
+    "esp": "Comunicación",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (853)"
+    ]
+  },
+  {
+    "idx": 2630,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p12",
+    "esp": "Comunicación",
+    "n": 12,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (741)"
+    ]
+  },
+  {
+    "idx": 2631,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p13",
+    "esp": "Comunicación",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (703)"
+    ]
+  },
+  {
+    "idx": 2632,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p14",
+    "esp": "Comunicación",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "TXT largo (1241)",
+      "ALT A tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2635,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p17",
+    "esp": "Comunicación",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (500)"
+    ]
+  },
+  {
+    "idx": 2644,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p34",
+    "esp": "Comunicación",
+    "n": 34,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (826)"
+    ]
+  },
+  {
+    "idx": 2650,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p33",
+    "esp": "Comunicación",
+    "n": 33,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2651,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p45",
+    "esp": "Comunicación",
+    "n": 45,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (1890)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2652,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p47",
+    "esp": "Comunicación",
+    "n": 47,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (490)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2655,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p51",
+    "esp": "Comunicación",
+    "n": 51,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (1872)"
+    ]
+  },
+  {
+    "idx": 2656,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p38",
+    "esp": "Comunicación",
+    "n": 38,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (779)"
+    ]
+  },
+  {
+    "idx": 2657,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p52",
+    "esp": "Comunicación",
+    "n": 52,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (1841)"
+    ]
+  },
+  {
+    "idx": 2660,
+    "id": "a17-ebrs-12-2024-f2-cb2e-p56",
+    "esp": "Comunicación",
+    "n": 56,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2664,
+    "id": "a07-ebrp-11-2023-f1-f13a-p4",
+    "esp": "Primaria",
+    "n": 4,
+    "y": 2023,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1723)"
+    ]
+  },
+  {
+    "idx": 2665,
+    "id": "a07-ebrp-11-2023-f1-f13a-p7",
+    "esp": "Primaria",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1723)"
+    ]
+  },
+  {
+    "idx": 2666,
+    "id": "a07-ebrp-11-2023-f1-f13a-p8",
+    "esp": "Primaria",
+    "n": 8,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 6 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 5 signos ¿"
+    ]
+  },
+  {
+    "idx": 2679,
+    "id": "a07-ebrp-11-2023-f1-f13a-p31",
+    "esp": "Primaria",
+    "n": 31,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (586)"
+    ]
+  },
+  {
+    "idx": 2681,
+    "id": "a07-ebrp-11-2023-f1-f13a-p36",
+    "esp": "Primaria",
+    "n": 36,
+    "y": 2023,
+    "issues": [
+      "ALT B tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2685,
+    "id": "a07-ebrp-11-2023-f1-f13a-p46",
+    "esp": "Primaria",
+    "n": 46,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (681)"
+    ]
+  },
+  {
+    "idx": 2687,
+    "id": "a07-ebrp-11-2023-f1-f13a-p26",
+    "esp": "Primaria",
+    "n": 26,
+    "y": 2023,
+    "issues": [
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2691,
+    "id": "a07-ebrp-11-2023-f1-f13a-p59",
+    "esp": "Primaria",
+    "n": 59,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (505)"
+    ]
+  },
+  {
+    "idx": 2701,
+    "id": "a64-ebrs-11-2024-f1-e391-p17",
+    "esp": "Educación Física",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (665)"
+    ]
+  },
+  {
+    "idx": 2710,
+    "id": "a64-ebrs-11-2024-f1-e391-p19",
+    "esp": "Educación Física",
+    "n": 19,
+    "y": 2024,
+    "issues": [
+      "ALT A larga (438)",
+      "ALT C larga (629)"
+    ]
+  },
+  {
+    "idx": 2712,
+    "id": "a64-ebrs-11-2024-f1-e391-p34",
+    "esp": "Educación Física",
+    "n": 34,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (663)"
+    ]
+  },
+  {
+    "idx": 2721,
+    "id": "a64-ebrs-11-2024-f1-e391-p50",
+    "esp": "Educación Física",
+    "n": 50,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (775)"
+    ]
+  },
+  {
+    "idx": 2723,
+    "id": "a64-ebrs-11-2024-f1-e391-p28",
+    "esp": "Educación Física",
+    "n": 28,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (576)"
+    ]
+  },
+  {
+    "idx": 2725,
+    "id": "a19-ebrs-41-2021-f1-96e8-p5",
+    "esp": "Ciencias Sociales",
+    "n": 5,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1571)"
+    ]
+  },
+  {
+    "idx": 2734,
+    "id": "a19-ebrs-41-2021-f1-96e8-p21",
+    "esp": "Ciencias Sociales",
+    "n": 21,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1380)"
+    ]
+  },
+  {
+    "idx": 2735,
+    "id": "a19-ebrs-41-2021-f1-96e8-p22",
+    "esp": "Ciencias Sociales",
+    "n": 22,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1380)",
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2744,
+    "id": "a19-ebrs-41-2021-f1-96e8-p34",
+    "esp": "Ciencias Sociales",
+    "n": 34,
+    "y": 2021,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2747,
+    "id": "a19-ebrs-41-2021-f1-96e8-p44",
+    "esp": "Ciencias Sociales",
+    "n": 44,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1241)"
+    ]
+  },
+  {
+    "idx": 2751,
+    "id": "a19-ebrs-41-2021-f1-96e8-p53",
+    "esp": "Ciencias Sociales",
+    "n": 53,
+    "y": 2021,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2752,
+    "id": "a20-ebrs-42-2021-f2-b604-p5",
+    "esp": "Ciencias Sociales",
+    "n": 5,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1057)"
+    ]
+  },
+  {
+    "idx": 2753,
+    "id": "a20-ebrs-42-2021-f2-b604-p7",
+    "esp": "Ciencias Sociales",
+    "n": 7,
+    "y": 2021,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2756,
+    "id": "a20-ebrs-42-2021-f2-b604-p17",
+    "esp": "Ciencias Sociales",
+    "n": 17,
+    "y": 2021,
+    "issues": [
+      "TXT largo (1241)"
+    ]
+  },
+  {
+    "idx": 2760,
+    "id": "a20-ebrs-42-2021-f2-b604-p26",
+    "esp": "Ciencias Sociales",
+    "n": 26,
+    "y": 2021,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2761,
+    "id": "a20-ebrs-42-2021-f2-b604-p27",
+    "esp": "Ciencias Sociales",
+    "n": 27,
+    "y": 2021,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2766,
+    "id": "a20-ebrs-42-2021-f2-b604-p34",
+    "esp": "Ciencias Sociales",
+    "n": 34,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1571)"
+    ]
+  },
+  {
+    "idx": 2771,
+    "id": "a20-ebrs-42-2021-f2-b604-p45",
+    "esp": "Ciencias Sociales",
+    "n": 45,
+    "y": 2021,
+    "issues": [
+      "ALT A tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2773,
+    "id": "a20-ebrs-42-2021-f2-b604-p51",
+    "esp": "Ciencias Sociales",
+    "n": 51,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1380)"
+    ]
+  },
+  {
+    "idx": 2776,
+    "id": "a20-ebrs-42-2021-f2-b604-p52",
+    "esp": "Ciencias Sociales",
+    "n": 52,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1380)"
+    ]
+  },
+  {
+    "idx": 2779,
+    "id": "a25-ebrs-11-2023-f1-c1be-p5",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 5,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (578)"
+    ]
+  },
+  {
+    "idx": 2780,
+    "id": "a25-ebrs-11-2023-f1-c1be-p6",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 6,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (749)"
+    ]
+  },
+  {
+    "idx": 2781,
+    "id": "a25-ebrs-11-2023-f1-c1be-p7",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2785,
+    "id": "a25-ebrs-11-2023-f1-c1be-p12",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 12,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (785)",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2786,
+    "id": "a25-ebrs-11-2023-f1-c1be-p14",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 14,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (1615)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2788,
+    "id": "a25-ebrs-11-2023-f1-c1be-p15",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 15,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (1645)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2789,
+    "id": "a25-ebrs-11-2023-f1-c1be-p17",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 17,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2790,
+    "id": "a25-ebrs-11-2023-f1-c1be-p20",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 20,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (800)"
+    ]
+  },
+  {
+    "idx": 2791,
+    "id": "a25-ebrs-11-2023-f1-c1be-p16",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 16,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (645)"
+    ]
+  },
+  {
+    "idx": 2794,
+    "id": "a25-ebrs-11-2023-f1-c1be-p18",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 18,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1335)"
+    ]
+  },
+  {
+    "idx": 2798,
+    "id": "a25-ebrs-11-2023-f1-c1be-p29",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 29,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2801,
+    "id": "a25-ebrs-11-2023-f1-c1be-p26",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 26,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (830)"
+    ]
+  },
+  {
+    "idx": 2806,
+    "id": "a25-ebrs-11-2023-f1-c1be-p31",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 31,
+    "y": 2023,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1090)",
+      "ALT C larga (586)"
+    ]
+  },
+  {
+    "idx": 2814,
+    "id": "a25-ebrs-11-2023-f1-c1be-p40",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 40,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (757)"
+    ]
+  },
+  {
+    "idx": 2817,
+    "id": "a25-ebrs-11-2023-f1-c1be-p43",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 43,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2818,
+    "id": "a25-ebrs-11-2023-f1-c1be-p60",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 60,
+    "y": 2023,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1999)"
+    ]
+  },
+  {
+    "idx": 2819,
+    "id": "a19-ebrs-11-2024-f1-4346-p1",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 1,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2821,
+    "id": "a19-ebrs-11-2024-f1-4346-p6",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 6,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2825,
+    "id": "a19-ebrs-11-2024-f1-4346-p10",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (751)"
+    ]
+  },
+  {
+    "idx": 2826,
+    "id": "a19-ebrs-11-2024-f1-4346-p12",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 12,
+    "y": 2024,
+    "issues": [
+      "CTX largo (1691)"
+    ]
+  },
+  {
+    "idx": 2827,
+    "id": "a19-ebrs-11-2024-f1-4346-p13",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 13,
+    "y": 2024,
+    "issues": [
+      "CTX largo (1691)"
+    ]
+  },
+  {
+    "idx": 2828,
+    "id": "a19-ebrs-11-2024-f1-4346-p14",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 14,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2835,
+    "id": "a19-ebrs-11-2024-f1-4346-p22",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 22,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (592)"
+    ]
+  },
+  {
+    "idx": 2838,
+    "id": "a19-ebrs-11-2024-f1-4346-p25",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 25,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2840,
+    "id": "a19-ebrs-11-2024-f1-4346-p26",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "TXT 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2842,
+    "id": "a19-ebrs-11-2024-f1-4346-p27",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 27,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (775)"
+    ]
+  },
+  {
+    "idx": 2849,
+    "id": "a19-ebrs-11-2024-f1-4346-p42",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 42,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 4 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 2853,
+    "id": "a19-ebrs-11-2024-f1-4346-p38",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 38,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (435)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2854,
+    "id": "a19-ebrs-11-2024-f1-4346-p39",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 39,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (834)"
+    ]
+  },
+  {
+    "idx": 2856,
+    "id": "a19-ebrs-11-2024-f1-4346-p40",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 40,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (428)"
+    ]
+  },
+  {
+    "idx": 2862,
+    "id": "a19-ebrs-11-2024-f1-4346-p47",
+    "esp": "Desarrollo Personal, Ciudadanía y Cívica",
+    "n": 47,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C larga (422)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2864,
+    "id": "a10-ebrs-11-2021-f1-64f6-p46",
+    "esp": "Arte y Cultura",
+    "n": 46,
+    "y": 2021,
+    "issues": [
+      "CTX tiene ¿",
+      "CTX largo (1094)"
+    ]
+  },
+  {
+    "idx": 2865,
+    "id": "a10-ebrs-11-2021-f1-64f6-p47",
+    "esp": "Arte y Cultura",
+    "n": 47,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1486)"
+    ]
+  },
+  {
+    "idx": 2866,
+    "id": "a10-ebrs-11-2021-f1-64f6-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1486)"
+    ]
+  },
+  {
+    "idx": 2875,
+    "id": "a10-ebrs-11-2021-f1-64f6-p24",
+    "esp": "Arte y Cultura",
+    "n": 24,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1642)"
+    ]
+  },
+  {
+    "idx": 2883,
+    "id": "a11-ebrs-12-2021-f2-7031-p51",
+    "esp": "Arte y Cultura",
+    "n": 51,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1487)"
+    ]
+  },
+  {
+    "idx": 2884,
+    "id": "a11-ebrs-12-2021-f2-7031-p52",
+    "esp": "Arte y Cultura",
+    "n": 52,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1487)"
+    ]
+  },
+  {
+    "idx": 2885,
+    "id": "a11-ebrs-12-2021-f2-7031-p53",
+    "esp": "Arte y Cultura",
+    "n": 53,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1487)"
+    ]
+  },
+  {
+    "idx": 2890,
+    "id": "a11-ebrs-12-2021-f2-7031-p38",
+    "esp": "Arte y Cultura",
+    "n": 38,
+    "y": 2021,
+    "issues": [
+      "CTX largo (827)"
+    ]
+  },
+  {
+    "idx": 2891,
+    "id": "a11-ebrs-12-2021-f2-7031-p54",
+    "esp": "Arte y Cultura",
+    "n": 54,
+    "y": 2021,
+    "issues": [
+      "CTX largo (1642)"
+    ]
+  },
+  {
+    "idx": 2894,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p8",
+    "esp": "Arte y Cultura",
+    "n": 8,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1480)"
+    ]
+  },
+  {
+    "idx": 2895,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p6",
+    "esp": "Arte y Cultura",
+    "n": 6,
+    "y": 2023,
+    "issues": [
+      "CTX largo (864)"
+    ]
+  },
+  {
+    "idx": 2896,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p7",
+    "esp": "Arte y Cultura",
+    "n": 7,
+    "y": 2023,
+    "issues": [
+      "CTX largo (864)"
+    ]
+  },
+  {
+    "idx": 2897,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p10",
+    "esp": "Arte y Cultura",
+    "n": 10,
+    "y": 2023,
+    "issues": [
+      "CTX largo (864)"
+    ]
+  },
+  {
+    "idx": 2898,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p9",
+    "esp": "Arte y Cultura",
+    "n": 9,
+    "y": 2023,
+    "issues": [
+      "CTX largo (864)"
+    ]
+  },
+  {
+    "idx": 2899,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p11",
+    "esp": "Arte y Cultura",
+    "n": 11,
+    "y": 2023,
+    "issues": [
+      "CTX largo (864)"
+    ]
+  },
+  {
+    "idx": 2900,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p12",
+    "esp": "Arte y Cultura",
+    "n": 12,
+    "y": 2023,
+    "issues": [
+      "TXT largo (1239)"
+    ]
+  },
+  {
+    "idx": 2904,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p17",
+    "esp": "Arte y Cultura",
+    "n": 17,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2907,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p21",
+    "esp": "Arte y Cultura",
+    "n": 21,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT C larga (831)"
+    ]
+  },
+  {
+    "idx": 2908,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p18",
+    "esp": "Arte y Cultura",
+    "n": 18,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (408)"
+    ]
+  },
+  {
+    "idx": 2909,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p22",
+    "esp": "Arte y Cultura",
+    "n": 22,
+    "y": 2023,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 4 signos ¿",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2925,
+    "id": "a13-ebrs-11-2023-f1-6fd3-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2023,
+    "issues": [
+      "ALT C larga (449)"
+    ]
+  },
+  {
+    "idx": 2939,
+    "id": "a07-ebrs-11-2024-f1-9595-p10",
+    "esp": "Arte y Cultura",
+    "n": 10,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (579)",
+      "ALT C tiene 3 signos ¿"
+    ]
+  },
+  {
+    "idx": 2945,
+    "id": "a07-ebrs-11-2024-f1-9595-p17",
+    "esp": "Arte y Cultura",
+    "n": 17,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 5 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 2949,
+    "id": "a07-ebrs-11-2024-f1-9595-p26",
+    "esp": "Arte y Cultura",
+    "n": 26,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (439)"
+    ]
+  },
+  {
+    "idx": 2957,
+    "id": "a07-ebrs-11-2024-f1-9595-p28",
+    "esp": "Arte y Cultura",
+    "n": 28,
+    "y": 2024,
+    "issues": [
+      "ALT B larga (462)"
+    ]
+  },
+  {
+    "idx": 2962,
+    "id": "a07-ebrs-11-2024-f1-9595-p48",
+    "esp": "Arte y Cultura",
+    "n": 48,
+    "y": 2024,
+    "issues": [
+      "ALT C larga (629)"
+    ]
+  },
+  {
+    "idx": 2968,
+    "id": "a07-ebrs-11-2024-f1-9595-p58",
+    "esp": "Arte y Cultura",
+    "n": 58,
+    "y": 2024,
+    "issues": [
+      "ALT A tiene 3 signos ¿",
+      "ALT B tiene 3 signos ¿",
+      "ALT C tiene 4 signos ¿"
+    ]
+  },
+  {
+    "idx": 3345,
+    "id": "gen-ebai-008",
+    "esp": "Inicial/Intermedio",
+    "n": 8,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 2 signos ¿",
+      "ALT B tiene 2 signos ¿",
+      "ALT C tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 3357,
+    "id": "gen-ebai-020",
+    "esp": "Inicial/Intermedio",
+    "n": 20,
+    "y": 2025,
+    "issues": [
+      "ALT B tiene 2 signos ¿"
+    ]
+  },
+  {
+    "idx": 3481,
+    "id": "fix-015",
+    "esp": "",
+    "n": 915,
+    "y": 2025,
+    "issues": [
+      "ALT A tiene 3 signos ¿"
+    ]
+  }
+]
