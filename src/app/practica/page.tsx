@@ -51,6 +51,7 @@ export default function PracticaPage() {
         <h1 className="font-[var(--font-display)] text-3xl font-bold text-stone-800">Acceso requerido</h1>
         <p className="mt-2 text-stone-500">Inicia sesión para practicar</p>
         <Link href="/login" className="mt-4 px-6 py-3 bg-teal-700 text-white rounded-xl font-semibold">Iniciar sesión</Link>
+        <Link href="/" className="mt-3 text-teal-600 underline text-sm">Volver al inicio</Link>
       </div>
     )
   }

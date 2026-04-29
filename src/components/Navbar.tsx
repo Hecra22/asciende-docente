@@ -18,6 +18,9 @@ export default function Navbar() {
           Asciende Docente
         </Link>
         <div className="flex items-center gap-4 text-sm">
+          <Link href="/" className={`hover:text-teal-200 ${pathname === '/' ? 'text-teal-300 font-semibold' : ''}`}>
+            Inicio
+          </Link>
           <Link href="/practica" className={`hover:text-teal-200 ${pathname === '/practica' ? 'text-teal-300 font-semibold' : ''}`}>
             Práctica
           </Link>
