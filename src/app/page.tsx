@@ -29,11 +29,17 @@ export default function Home() {
       {/* HERO */}
       <section className="bg-teal-800 text-white py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <h1 className="font-[var(--font-display)] text-5xl md:text-6xl font-bold tracking-tight">
-            Asciende Docente
+          <p className="text-teal-300 text-lg tracking-widest uppercase">Prepárate para el</p>
+          <h1 className="font-[var(--font-display)] text-5xl md:text-7xl font-bold tracking-tight mt-2 italic">
+            Concurso de Ascenso Docente 2026
           </h1>
-          <p className="mt-4 text-xl text-teal-200 max-w-xl mx-auto">
-            Practica con las preguntas reales del Minedu y prepárate para el Concurso de Ascenso
+          <div className="mt-6 inline-block bg-white/10 backdrop-blur rounded-xl px-8 py-3 border border-white/20">
+            <p className="font-[var(--font-display)] text-3xl md:text-4xl font-bold tracking-wide">
+              Asciende Docente
+            </p>
+          </div>
+          <p className="mt-6 text-xl text-teal-200 max-w-xl mx-auto">
+            Practica con las preguntas reales del Minedu y asciende de escala magisterial
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
             <Link
