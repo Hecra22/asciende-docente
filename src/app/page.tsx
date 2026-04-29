@@ -124,6 +124,54 @@ export default function Home() {
         </div>
       </section>
 
+      {/* CONOCE A TU ASESOR */}
+      <section className="py-16 px-4 bg-white">
+        <div className="max-w-3xl mx-auto">
+          <h2 className="font-[var(--font-display)] text-3xl font-bold text-center text-stone-800">
+            Conoce a tu asesor pedagógico
+          </h2>
+          <div className="mt-8 flex flex-col md:flex-row gap-8 items-center">
+            <div className="shrink-0">
+              <img src="/prof-valdivia.png" alt="Prof. Heber Valdivia" className="w-48 h-48 rounded-2xl object-cover shadow-lg border-4 border-teal-100" />
+            </div>
+            <div className="flex-1">
+              <h3 className="font-[var(--font-display)] text-2xl font-bold text-teal-800">Mg. Heber Valdivia Huaranga</h3>
+              <p className="mt-1 text-teal-600 font-medium">Especialista en Pedagogía y Formación Docente</p>
+              <ul className="mt-4 space-y-2 text-sm text-stone-600">
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Magíster en Docencia y Gestión de la Educación — Universidad César Vallejo</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Licenciado en Educación, Especialidad Matemática y Física — Universidad Nacional Mayor de San Marcos</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>16 años en el Ministerio de Educación como monitor, supervisor y especialista pedagógico en diversas regiones del Perú</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Evaluador de competencias profesionales certificado por SINEACE</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Docente Formador en Didáctica de la Matemática — Instituto Pedagógico Nacional Monterrico (IPNM) en convenio con el Minedu</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Docente en la Universidad Católica Sedes Sapientiae — Segunda Especialidad e Investigación Educativa</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
+                  <span>Ponente en metodologías activas, evaluación formativa y Diseño Universal del Aprendizaje (DUA)</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* SIMULACROS */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto text-center">
