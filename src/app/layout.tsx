@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import { Crimson_Pro, Plus_Jakarta_Sans } from "next/font/google"
 import Providers from "@/components/Providers"
+import Navbar from "@/components/Navbar"
 import "./globals.css"
 
 const crimson = Crimson_Pro({
@@ -25,6 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="es" className={`${crimson.variable} ${jakarta.variable} scroll-smooth`}>
       <body className="min-h-screen bg-stone-50 text-stone-800 font-[var(--font-body)] antialiased">
         <Providers>
+        <Navbar />
         {children}
         </Providers>
         {/* WhatsApp flotante */}
