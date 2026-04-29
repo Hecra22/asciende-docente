@@ -132,7 +132,7 @@ export default function Home() {
           </h2>
           <div className="mt-8 flex flex-col md:flex-row gap-8 items-center">
             <div className="shrink-0">
-              <img src="/prof-valdivia.png" alt="Prof. Heber Valdivia" className="w-48 h-48 rounded-2xl object-cover shadow-lg border-4 border-teal-100" />
+              <img src="/prof-valdivia-clase.png" alt="Prof. Heber Valdivia en clase" className="w-64 h-48 rounded-2xl object-cover shadow-lg border-4 border-teal-100" />
             </div>
             <div className="flex-1">
               <h3 className="font-[var(--font-display)] text-2xl font-bold text-teal-800">Mg. Heber Valdivia Huaranga</h3>
