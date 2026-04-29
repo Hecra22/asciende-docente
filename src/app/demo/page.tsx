@@ -54,7 +54,7 @@ export default function DemoPage() {
               rel="noopener"
               className="px-8 py-4 bg-emerald-500 text-white font-bold rounded-xl text-lg hover:bg-emerald-400 transition-colors"
             >
-              Comprar acceso — S/ 39.90
+              Comprar acceso — S/ 25.00
             </a>
             <Link href="/" className="text-teal-700 underline">
               Volver al inicio
