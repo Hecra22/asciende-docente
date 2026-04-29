@@ -140,7 +140,7 @@ export default function Home() {
               <ul className="mt-4 space-y-2 text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
-                  <span>Magíster en Docencia y Gestión de la Educación — Universidad César Vallejo</span>
+                  <span>Magíster Especialista del Ministerio de Educación</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-teal-500 mt-0.5 font-bold">&#10003;</span>
