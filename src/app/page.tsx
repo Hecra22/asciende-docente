@@ -171,25 +171,22 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SIMULACROS */}
+      {/* PREDICCIÓN IA 2026 */}
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-[var(--font-display)] text-3xl font-bold text-stone-800">
-            42 simulacros tipo examen real
+            Simulacro con Predicción 2026 IA
           </h2>
           <p className="mt-2 text-stone-500 max-w-xl mx-auto">
-            3 simulacros de 60 preguntas para cada especialidad. Con cronómetro de 3 horas, puntaje por escala magisterial y revisión con explicaciones al terminar.
+            1,680 preguntas generadas con Inteligencia Artificial analizando los patrones del Minedu (2018–2025). 2 simulacros de 60 preguntas por especialidad con cronómetro de 3 horas y revisión al terminar.
           </p>
           <div className="mt-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {especialidades.map((esp) => (
-              <div key={esp.nombre} className="bg-teal-50 rounded-xl p-3 text-center border border-teal-100">
-                <p className="font-bold text-teal-800 text-sm">{esp.nombre}</p>
-                <p className="text-xs text-teal-600 mt-1">3 simulacros</p>
+              <div key={esp.nombre} className="bg-purple-50 rounded-xl p-3 text-center border border-purple-100">
+                <p className="font-bold text-purple-800 text-sm">{esp.nombre}</p>
+                <p className="text-xs text-purple-600 mt-1">2 simulacros IA</p>
               </div>
             ))}
-          </div>
-          <div className="mt-6 bg-stone-50 rounded-xl p-6 max-w-md mx-auto border border-stone-200">
-            <p className="text-sm text-stone-600">Al terminar cada simulacro, el <b>Prof. Valdivia</b> te explica cada respuesta con fundamento en el CNEB y el MBDD.</p>
           </div>
         </div>
       </section>
@@ -228,7 +225,7 @@ export default function Home() {
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 14 especialidades (EBR, EBA, EBE)</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Explicaciones pedagógicas profesionales</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Exámenes 2018, 2019, 2021, 2023, 2024, 2025</li>
-              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 42 simulacros tipo examen real (3 por especialidad)</li>
+              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 28 simulacros con Predicción IA 2026 (2 por especialidad)</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Seguimiento de tu progreso</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Acceso desde celular o computadora</li>
             </ul>

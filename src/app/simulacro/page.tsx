@@ -27,7 +27,7 @@ export default function SimulacroPage() {
   const timerRef = useRef<NodeJS.Timeout | null>(null)
 
   useEffect(() => {
-    fetch('/preguntas.json').then(r => r.json()).then((data: Question[]) => {
+    fetch('/pred2026.json').then(r => r.json()).then((data: Question[]) => {
       setQuestions(data)
       const esps = [...new Set(data.map(q => q.esp).filter(Boolean))].sort()
       setEspecialidades(esps)
@@ -100,15 +100,16 @@ export default function SimulacroPage() {
   // ═══ PHASE: SELECT ═══
   if (phase === 'select') {
     const espCount = selectedEsp ? questions.filter(q => q.esp === selectedEsp).length : 0
-    const canSim = espCount >= 180
+    const numSims = Math.floor(espCount / 60)
+    const canSim = numSims > 0
 
     return (
       <div className="min-h-screen flex flex-col">
         <header className="bg-teal-800 text-white py-8 px-4">
           <div className="max-w-2xl mx-auto text-center">
             <Link href="/" className="text-teal-200 text-sm hover:text-white">← Inicio</Link>
-            <h1 className="font-[var(--font-display)] text-4xl font-bold mt-2">Simulacro</h1>
-            <p className="mt-2 text-teal-200">Examen completo de 60 preguntas en 3 horas</p>
+            <h1 className="font-[var(--font-display)] text-4xl font-bold mt-2">Simulacro con Predicción 2026 IA</h1>
+            <p className="mt-2 text-teal-200">Preguntas generadas con IA basadas en el análisis de tendencias 2018–2025</p>
           </div>
         </header>
         <main className="flex-1 max-w-2xl mx-auto w-full px-4 py-8 space-y-6">
@@ -129,15 +130,15 @@ export default function SimulacroPage() {
           {selectedEsp && canSim && (
             <div className="bg-white rounded-xl shadow-sm border border-stone-200 p-6 space-y-4">
               <h2 className="font-[var(--font-display)] text-xl font-semibold">Elige tu simulacro</h2>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-                {[1, 2, 3].map(num => (
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {Array.from({ length: numSims }, (_, i) => i + 1).map(num => (
                   <button
                     key={num}
                     onClick={() => startSimulacro(num)}
                     className="p-6 rounded-xl border-2 border-teal-200 hover:border-teal-500 hover:shadow-md transition-all text-center"
                   >
                     <p className="font-[var(--font-display)] text-3xl font-bold text-teal-700">{num}</p>
-                    <p className="text-sm text-stone-500 mt-1">Simulacro {num}</p>
+                    <p className="text-sm text-stone-500 mt-1">Predicción IA {num}</p>
                     <p className="text-xs text-stone-400 mt-1">60 preguntas · 3 horas</p>
                   </button>
                 ))}
@@ -171,7 +172,7 @@ export default function SimulacroPage() {
           <div className="max-w-4xl mx-auto">
             <div className="flex items-center justify-between gap-4 flex-wrap">
               <div className="flex items-center gap-3">
-                <span className="bg-amber-500 text-xs px-2 py-0.5 rounded font-bold">SIMULACRO {selectedSim}</span>
+                <span className="bg-purple-500 text-xs px-2 py-0.5 rounded font-bold">PREDICCIÓN IA {selectedSim}</span>
                 <span className="font-[var(--font-display)] font-bold text-lg">{currentIdx + 1} / 60</span>
               </div>
               <div className="flex items-center gap-4 text-sm">
@@ -298,7 +299,7 @@ export default function SimulacroPage() {
       <div className="min-h-screen flex flex-col">
         <header className="bg-teal-800 text-white py-8 px-4">
           <div className="max-w-2xl mx-auto text-center">
-            <h1 className="font-[var(--font-display)] text-4xl font-bold">Resultado del Simulacro {selectedSim}</h1>
+            <h1 className="font-[var(--font-display)] text-4xl font-bold">Resultado Predicción IA {selectedSim}</h1>
             <p className="mt-2 text-teal-200">{selectedEsp} · Tiempo: {formatTime(timeUsed)}</p>
           </div>
         </header>
@@ -376,7 +377,7 @@ export default function SimulacroPage() {
         <header className="bg-stone-800 text-white px-4 py-3 sticky top-0 z-20">
           <div className="max-w-4xl mx-auto flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <span className="text-sm text-stone-300">Revisión Simulacro {selectedSim}</span>
+              <span className="text-sm text-stone-300">Revisión Predicción IA {selectedSim}</span>
               <span className="font-bold">{reviewIdx + 1} / 60</span>
             </div>
             <button onClick={() => setPhase('results')} className="text-stone-300 text-sm hover:text-white">

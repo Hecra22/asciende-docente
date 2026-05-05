@@ -15,7 +15,7 @@ export default function Navbar() {
   const links = [
     { href: '/', label: 'Inicio' },
     { href: '/practica', label: 'Práctica' },
-    { href: '/simulacro', label: 'Simulacro' },
+    { href: '/simulacro', label: 'Predicción IA 2026' },
   ]
 
   return (
