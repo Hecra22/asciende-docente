@@ -1,20 +1,20 @@
 import Link from "next/link"
 
 const especialidades = [
-  { nombre: "Primaria", preguntas: 657 },
-  { nombre: "Matemática", preguntas: 444 },
-  { nombre: "Inicial", preguntas: 423 },
-  { nombre: "Educación Religiosa", preguntas: 435 },
-  { nombre: "Comunicación", preguntas: 403 },
-  { nombre: "Arte y Cultura", preguntas: 371 },
-  { nombre: "Ciencias Sociales", preguntas: 300 },
-  { nombre: "DPCC", preguntas: 307 },
-  { nombre: "Ciencia y Tecnología", preguntas: 300 },
-  { nombre: "Educación Física", preguntas: 300 },
-  { nombre: "Inglés", preguntas: 300 },
-  { nombre: "EBE", preguntas: 300 },
+  { nombre: "Primaria", preguntas: 537 },
+  { nombre: "Matemática", preguntas: 270 },
+  { nombre: "Inicial", preguntas: 303 },
+  { nombre: "Educación Religiosa", preguntas: 264 },
+  { nombre: "Comunicación", preguntas: 240 },
+  { nombre: "Arte y Cultura", preguntas: 213 },
+  { nombre: "Ciencias Sociales", preguntas: 167 },
+  { nombre: "DPCC", preguntas: 137 },
+  { nombre: "Ciencia y Tecnología", preguntas: 131 },
+  { nombre: "Educación Física", preguntas: 71 },
+  { nombre: "Inglés", preguntas: 69 },
+  { nombre: "EBE", preguntas: 57 },
   { nombre: "EBA Avanzado", preguntas: 373 },
-  { nombre: "EBA Inicial/Intermedio", preguntas: 301 },
+  { nombre: "EBA Inicial/Intermedio", preguntas: 52 },
 ]
 
 const pasos = [
@@ -65,7 +65,7 @@ export default function Home() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-[var(--font-display)] text-3xl font-bold text-stone-800">
-            5,163 preguntas con explicaciones pedagógicas
+            2,987 preguntas con explicaciones pedagógicas
           </h2>
           <p className="mt-2 text-stone-500">
             Extraídas de los cuadernillos oficiales del Minedu (2018–2025)
@@ -176,16 +176,16 @@ export default function Home() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-[var(--font-display)] text-3xl font-bold text-stone-800">
-            +80 simulacros tipo examen real
+            42 simulacros tipo examen real
           </h2>
           <p className="mt-2 text-stone-500 max-w-xl mx-auto">
-            Hasta 10 simulacros de 60 preguntas por especialidad, incluyendo simulacros con predicción IA 2026. Con cronómetro de 3 horas, puntaje por escala magisterial y revisión con explicaciones al terminar.
+            3 simulacros de 60 preguntas para cada especialidad. Con cronómetro de 3 horas, puntaje por escala magisterial y revisión con explicaciones al terminar.
           </p>
           <div className="mt-8 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
             {especialidades.map((esp) => (
               <div key={esp.nombre} className="bg-teal-50 rounded-xl p-3 text-center border border-teal-100">
                 <p className="font-bold text-teal-800 text-sm">{esp.nombre}</p>
-                <p className="text-xs text-teal-600 mt-1">5-10 simulacros</p>
+                <p className="text-xs text-teal-600 mt-1">3 simulacros</p>
               </div>
             ))}
           </div>
@@ -225,11 +225,11 @@ export default function Home() {
             <p className="font-[var(--font-display)] text-6xl font-bold">S/ 25.00</p>
             <p className="mt-2 text-teal-200">Acceso hasta el día del examen</p>
             <ul className="mt-6 text-left space-y-2 text-teal-100">
-              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 5,163 preguntas (oficiales + predicción IA 2026)</li>
+              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 2,987 preguntas oficiales del Minedu</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 14 especialidades (EBR, EBA, EBE)</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Explicaciones pedagógicas profesionales</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Exámenes 2018, 2019, 2021, 2023, 2024, 2025</li>
-              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> +80 simulacros tipo examen real (hasta 10 por especialidad)</li>
+              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 42 simulacros tipo examen real (3 por especialidad)</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Seguimiento de tu progreso</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Acceso desde celular o computadora</li>
             </ul>
