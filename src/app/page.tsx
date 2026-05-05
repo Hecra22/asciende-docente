@@ -1,20 +1,19 @@
 import Link from "next/link"
 
 const especialidades = [
-  { nombre: "Primaria", preguntas: 537 },
-  { nombre: "Matemática", preguntas: 270 },
-  { nombre: "Inicial", preguntas: 303 },
-  { nombre: "Educación Religiosa", preguntas: 264 },
-  { nombre: "Comunicación", preguntas: 240 },
-  { nombre: "Arte y Cultura", preguntas: 213 },
-  { nombre: "Ciencias Sociales", preguntas: 167 },
+  { nombre: "Primaria", preguntas: 347 },
+  { nombre: "Educación Religiosa", preguntas: 202 },
+  { nombre: "Arte y Cultura", preguntas: 191 },
+  { nombre: "Inglés", preguntas: 180 },
+  { nombre: "EBE", preguntas: 177 },
+  { nombre: "Inicial", preguntas: 171 },
+  { nombre: "Ciencia y Tecnología", preguntas: 164 },
+  { nombre: "EBA Inicial/Intermedio", preguntas: 160 },
+  { nombre: "Ciencias Sociales", preguntas: 158 },
+  { nombre: "Comunicación", preguntas: 154 },
+  { nombre: "Matemática", preguntas: 154 },
+  { nombre: "Educación Física", preguntas: 139 },
   { nombre: "DPCC", preguntas: 137 },
-  { nombre: "Ciencia y Tecnología", preguntas: 131 },
-  { nombre: "Educación Física", preguntas: 71 },
-  { nombre: "Inglés", preguntas: 69 },
-  { nombre: "EBE", preguntas: 57 },
-  { nombre: "EBA Avanzado", preguntas: 373 },
-  { nombre: "EBA Inicial/Intermedio", preguntas: 52 },
 ]
 
 const pasos = [
@@ -65,7 +64,7 @@ export default function Home() {
       <section className="py-16 px-4 bg-white">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="font-[var(--font-display)] text-3xl font-bold text-stone-800">
-            2,987 preguntas con explicaciones pedagógicas
+            2,387 preguntas con explicaciones pedagógicas
           </h2>
           <p className="mt-2 text-stone-500">
             Extraídas de los cuadernillos oficiales del Minedu (2018–2025)
@@ -225,7 +224,7 @@ export default function Home() {
             <p className="font-[var(--font-display)] text-6xl font-bold">S/ 25.00</p>
             <p className="mt-2 text-teal-200">Acceso hasta el día del examen</p>
             <ul className="mt-6 text-left space-y-2 text-teal-100">
-              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 2,987 preguntas oficiales del Minedu</li>
+              <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 2,387 preguntas oficiales del Minedu</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> 14 especialidades (EBR, EBA, EBE)</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Explicaciones pedagógicas profesionales</li>
               <li className="flex items-center gap-2"><span className="text-emerald-400">✓</span> Exámenes 2018, 2019, 2021, 2023, 2024, 2025</li>
